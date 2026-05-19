@@ -1,0 +1,627 @@
+"Name","Version","Vendor"
+"AMD 3D V-Cache Performance Optimizer Driver","1.0.0.12","Advanced Micro Devices, Inc."
+"AMD Application Compatibility Database Driver","1.0.0.3","Advanced Micro Devices, Inc."
+"AMD DVR64","1.0.2","Advanced Micro Devices, Inc."
+"AMD GPIO2 Driver","2.2.0.136","Advanced Micro Devices, Inc."
+"AMD I2C Driver","1.2.0.126","Advanced Micro Devices, Inc."
+"AMD Install Manager","25.10.26126.2250","Advanced Micro Devices, Inc."
+"AMD Interface Driver","2.0.0.26","Advanced Micro Devices, Inc."
+"AMD PPM Provisioning File Driver","8.0.0.59","Advanced Micro Devices, Inc."
+"AMD Privacy View","1.02.0001","Eyeware Tech SA"
+"AMD PSP Driver","5.40.0.0","Advanced Micro Devices, Inc."
+"AMD Ryzen Master","3.0.2.5029","Advanced Micro Devices, Inc."
+"AMD Settings","2026.0506.2311.2068","Advanced Micro Devices, Inc."
+"AMD WVR64","1.0.2","Advanced Micro Devices, Inc."
+"AMD_Chipset_Drivers","8.03.25.247","Advanced Micro Devices, Inc."
+"Application Verifier x64 External Package (DesktopEditions)","10.1.26100.7705","Microsoft"
+"Application Verifier x64 External Package (OnecoreUAP)","10.1.26100.7705","Microsoft"
+"Branding64","1.00.0009","Advanced Micro Devices, Inc."
+"cloudflared","2026.5.0","cloudflare"
+"Corsair Device Control Service","1.9.9","Corsair"
+"DiagnosticsHub_CollectionService","17.14.36412","Microsoft Corporation"
+"ENE Video Capture Box HAL","1.0.5.15",
+"ENE_AIC_Marvell_HAL","1.0.7.0",
+"ENE_DRAM_RGB_AIO","1.0.23.1","Ene Tech."
+"ENE_EHD_M2_HAL","1.0.17.0","ENE TECHNOLOGY INC."
+"ENE_External_Device_HAL","1.0.12.7",
+"ENE_MousePad_HAL","1.0.1.8",
+"ENE_X_AIC_HAL","1.0.6.3",
+"GitHub CLI","2.92.0","GitHub, Inc."
+"Google Chrome","148.0.7778.168","Google LLC"
+"Kits Configuration Installer","10.1.26100.2454","Microsoft"
+"Macrium Reflect Workstation","8.1.8631","Paramount Software (UK) Ltd."
+"Microsoft .NET 10.0 Templates 10.0.103 x64","40.10.52243","Microsoft Corporation"
+"Microsoft .NET 10.0 Templates 10.0.104 x64","40.11.56650","Microsoft Corporation"
+"Microsoft .NET 10.0 Templates 10.0.108 x64","40.11.2123","Microsoft Corporation"
+"Microsoft .NET 10.0 Templates 10.0.200 x64","40.10.56662","Microsoft Corporation"
+"Microsoft .NET 10.0 Templates 10.0.204 x64","40.11.2218","Microsoft Corporation"
+"Microsoft .NET 10.0 Templates 10.0.300 x64","40.11.2206","Microsoft Corporation"
+"Microsoft .NET 11.0 Templates 11.0.100-preview.1.26104.118 x64","44.10.55158","Microsoft Corporation"
+"Microsoft .NET 11.0 Templates 11.0.100-preview.4.26230.115 x64","44.11.2219","Microsoft Corporation"
+"Microsoft .NET 6.0 Templates 6.0.428 (x64)","24.9.28115",
+"Microsoft .NET 7.0 Templates 7.0.410 (x64)","28.13.2919",
+"Microsoft .NET 8.0 Templates 8.0.417 (x64)","32.15.54793","Microsoft Corporation"
+"Microsoft .NET 8.0 Templates 8.0.418 (x64)","32.14.51843","Microsoft Corporation"
+"Microsoft .NET 8.0 Templates 8.0.419 (x64)","32.14.55941","Microsoft Corporation"
+"Microsoft .NET 8.0 Templates 8.0.420 (x64)","32.14.61841","Microsoft Corporation"
+"Microsoft .NET 8.0 Templates 8.0.421 (x64)","32.15.51258","Microsoft Corporation"
+"Microsoft .NET 9.0 Templates 9.0.310 (x64)","36.11.51051","Microsoft Corporation"
+"Microsoft .NET 9.0 Templates 9.0.311 (x64)","36.11.51454","Microsoft Corporation"
+"Microsoft .NET 9.0 Templates 9.0.312 (x64)","36.11.56644","Microsoft Corporation"
+"Microsoft .NET 9.0 Templates 9.0.313 (x64)","36.11.62243","Microsoft Corporation"
+"Microsoft .NET 9.0 Templates 9.0.314 (x64)","36.15.2113","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 5.0.17 (x64)","40.68.31213",
+"Microsoft .NET AppHost Pack - 5.0.17 (x64_arm)","40.68.31213",
+"Microsoft .NET AppHost Pack - 5.0.17 (x64_arm64)","40.68.31213",
+"Microsoft .NET AppHost Pack - 5.0.17 (x64_x86)","40.68.31213",
+"Microsoft .NET AppHost Pack - 6.0.36 (x64)","48.144.23141",
+"Microsoft .NET AppHost Pack - 6.0.36 (x64_arm)","48.144.23141",
+"Microsoft .NET AppHost Pack - 6.0.36 (x64_arm64)","48.144.23141",
+"Microsoft .NET AppHost Pack - 6.0.36 (x64_x86)","48.144.23141",
+"Microsoft .NET AppHost Pack - 7.0.20 (x64)","56.80.15184",
+"Microsoft .NET AppHost Pack - 7.0.20 (x64_arm)","56.80.15184",
+"Microsoft .NET AppHost Pack - 7.0.20 (x64_arm64)","56.80.15184",
+"Microsoft .NET AppHost Pack - 7.0.20 (x64_x86)","56.80.15184",
+"Microsoft .NET AppHost Pack - 8.0.23 (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.23 (x64_arm64)","64.92.45415","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.23 (x64_x86)","64.92.45415","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.24 (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.24 (x64_arm64)","64.96.47242","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.24 (x64_x86)","64.96.47242","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.25 (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.25 (x64_arm64)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.25 (x64_x86)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.26 (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.26 (x64_arm64)","64.104.50421","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.26 (x64_x86)","64.104.50421","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.27 (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.27 (x64_arm64)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 8.0.27 (x64_x86)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.12 (x64)","72.48.45417","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.12 (x64_arm64)","72.48.45417","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.12 (x64_x86)","72.48.45417","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.13 (x64)","72.52.47121","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.13 (x64_arm64)","72.52.47121","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.13 (x64_x86)","72.52.47121","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.14 (x64)","72.56.48826","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.14 (x64_arm64)","72.56.48826","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.14 (x64_x86)","72.56.48826","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.15 (x64)","72.60.50518","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.15 (x64_arm64)","72.60.50518","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.15 (x64_x86)","72.60.50518","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.16 (x64)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.16 (x64_arm64)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET AppHost Pack - 9.0.16 (x64_x86)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET Core 3.0 Templates (x64)","3.0.4.014459",
+"Microsoft .NET Core 3.1 Templates 3.1.426 (x64)","3.1.33.016244",
+"Microsoft .NET Core 5.0 Templates 5.0.408 (x64)","20.4.59784",
+"Microsoft .NET Core AppHost Pack - 3.0.3 (x64)","24.12.28517",
+"Microsoft .NET Core AppHost Pack - 3.1.32 (x64)","24.192.31915",
+"Microsoft .NET Core AppHost Pack - 3.1.32 (x64_arm)","24.192.31915",
+"Microsoft .NET Core AppHost Pack - 3.1.32 (x64_arm64)","24.192.31915",
+"Microsoft .NET Core AppHost Pack - 3.1.32 (x64_x86)","24.192.31915",
+"Microsoft .NET Core Host - 2.1.30 (x64)","16.120.30411",
+"Microsoft .NET Core Host - 2.2.7 (x64)","16.156.28009",
+"Microsoft .NET Core Host - 2.2.8 (x64)","16.160.28209",
+"Microsoft .NET Core Host - 3.0.3 (x64)","24.12.28517",
+"Microsoft .NET Core Host - 3.1.32 (x64)","24.192.31915",
+"Microsoft .NET Core Host FX Resolver - 2.1.30 (x64)","16.120.30411",
+"Microsoft .NET Core Host FX Resolver - 2.2.7 (x64)","16.156.28009",
+"Microsoft .NET Core Host FX Resolver - 2.2.8 (x64)","16.160.28209",
+"Microsoft .NET Core Host FX Resolver - 3.0.3 (x64)","24.12.28517",
+"Microsoft .NET Core Host FX Resolver - 3.1.32 (x64)","24.192.31915",
+"Microsoft .NET Core Runtime - 2.1.30 (x64)","16.120.30411",
+"Microsoft .NET Core Runtime - 2.2.7 (x64)","16.156.28009",
+"Microsoft .NET Core Runtime - 2.2.8 (x64)","16.160.28209","Microsoft Corporation"
+"Microsoft .NET Core Runtime - 3.0.3 (x64)","24.12.28517",
+"Microsoft .NET Core Runtime - 3.1.32 (x64)","24.192.31915",
+"Microsoft .NET Core SDK 2.2.207 (x64)","8.51.59374",
+"Microsoft .NET Core SDK 2.2.402 (x64)","8.100.43055",
+"Microsoft .NET Core SDK 3.0.103 (x64)","12.0.63611",
+"Microsoft .NET Core SDK Uninstall Tool (x86)","4.112.868","Microsoft Corporation"
+"Microsoft .NET Core Targeting Pack - 3.0.0 (x64)","24.0.28113",
+"Microsoft .NET Core Targeting Pack - 3.1.0 (x64)","24.64.28315",
+"Microsoft .NET Core Toolset 3.1.426 (x64)","12.22.49012",
+"Microsoft .NET Host - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft .NET Host - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft .NET Host - 5.0.17 (x64)","40.68.31213",
+"Microsoft .NET Host - 6.0.36 (x64)","48.144.23141",
+"Microsoft .NET Host - 6.0.36 (x86)","48.144.23141","Microsoft Corporation"
+"Microsoft .NET Host - 7.0.20 (x64)","56.80.15184",
+"Microsoft .NET Host - 7.0.20 (x86)","56.80.15184","Microsoft Corporation"
+"Microsoft .NET Host - 8.0.25 (x86)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET Host - 8.0.27 (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET Host - 9.0.16 (x64)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 10.0.5 (x64)","80.20.50175","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 11.0.0 Preview 2 (x64)","88.0.50256","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 5.0.17 (x64)","40.68.31213",
+"Microsoft .NET Host FX Resolver - 6.0.36 (x64)","48.144.23141",
+"Microsoft .NET Host FX Resolver - 6.0.36 (x86)","48.144.23141","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 7.0.20 (x64)","56.80.15184",
+"Microsoft .NET Host FX Resolver - 7.0.20 (x86)","56.80.15184","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 8.0.19 (x64)","64.76.37566",
+"Microsoft .NET Host FX Resolver - 8.0.23 (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 8.0.24 (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 8.0.25 (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 8.0.25 (x86)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 8.0.26 (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 8.0.27 (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 9.0.12 (x64)","72.48.45417","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 9.0.13 (x64)","72.52.47121","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 9.0.14 (x64)","72.56.48826","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 9.0.15 (x64)","72.60.50518","Microsoft Corporation"
+"Microsoft .NET Host FX Resolver - 9.0.16 (x64)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET Runtime - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft .NET Runtime - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft .NET Runtime - 10.0.5 (x64)","80.20.50175","Microsoft Corporation"
+"Microsoft .NET Runtime - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft .NET Runtime - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft .NET Runtime - 11.0.0 Preview 2 (x64)","88.0.50256","Microsoft Corporation"
+"Microsoft .NET Runtime - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft .NET Runtime - 5.0.17 (x64)","40.68.31213",
+"Microsoft .NET Runtime - 6.0.36 (x64)","48.144.23141",
+"Microsoft .NET Runtime - 6.0.36 (x86)","48.144.23141","Microsoft Corporation"
+"Microsoft .NET Runtime - 7.0.20 (x64)","56.80.15184",
+"Microsoft .NET Runtime - 7.0.20 (x86)","56.80.15184","Microsoft Corporation"
+"Microsoft .NET Runtime - 8.0.19 (x64)","64.76.37566",
+"Microsoft .NET Runtime - 8.0.23 (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft .NET Runtime - 8.0.24 (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft .NET Runtime - 8.0.25 (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET Runtime - 8.0.25 (x86)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET Runtime - 8.0.26 (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft .NET Runtime - 8.0.27 (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET Runtime - 9.0.12 (x64)","72.48.45417","Microsoft Corporation"
+"Microsoft .NET Runtime - 9.0.13 (x64)","72.52.47121","Microsoft Corporation"
+"Microsoft .NET Runtime - 9.0.14 (x64)","72.56.48826","Microsoft Corporation"
+"Microsoft .NET Runtime - 9.0.15 (x64)","72.60.50518","Microsoft Corporation"
+"Microsoft .NET Runtime - 9.0.16 (x64)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)","24.0.28113",
+"Microsoft .NET Targeting Pack - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 5.0.0 (x64)","40.0.29513",
+"Microsoft .NET Targeting Pack - 6.0.36 (x64)","48.144.23141",
+"Microsoft .NET Targeting Pack - 7.0.20 (x64)","56.80.15184",
+"Microsoft .NET Targeting Pack - 8.0.23 (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 8.0.24 (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 8.0.25 (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 8.0.26 (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 8.0.27 (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 9.0.12 (x64)","72.48.45417","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 9.0.13 (x64)","72.52.47121","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 9.0.14 (x64)","72.56.48826","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 9.0.15 (x64)","72.60.50518","Microsoft Corporation"
+"Microsoft .NET Targeting Pack - 9.0.16 (x64)","72.64.52183","Microsoft Corporation"
+"Microsoft .NET Toolset 10.0.103 (x64)","40.10.52243","Microsoft Corporation"
+"Microsoft .NET Toolset 10.0.104 (x64)","40.11.56650","Microsoft Corporation"
+"Microsoft .NET Toolset 10.0.108 (x64)","40.11.2123","Microsoft Corporation"
+"Microsoft .NET Toolset 10.0.200 (x64)","40.10.56662","Microsoft Corporation"
+"Microsoft .NET Toolset 10.0.204 (x64)","40.11.2218","Microsoft Corporation"
+"Microsoft .NET Toolset 10.0.300 (x64)","40.11.2206","Microsoft Corporation"
+"Microsoft .NET Toolset 11.0.100-preview.1.26104.118 (x64)","44.10.55158","Microsoft Corporation"
+"Microsoft .NET Toolset 11.0.100-preview.4.26230.115 (x64)","44.11.2219","Microsoft Corporation"
+"Microsoft .NET Toolset 5.0.408 (x64)","20.6.59784",
+"Microsoft .NET Toolset 6.0.428 (x64)","24.15.28115",
+"Microsoft .NET Toolset 7.0.410 (x64)","28.10.35687",
+"Microsoft .NET Toolset 8.0.417 (x64)","32.14.22025","Microsoft Corporation"
+"Microsoft .NET Toolset 8.0.418 (x64)","32.14.51843","Microsoft Corporation"
+"Microsoft .NET Toolset 8.0.419 (x64)","32.14.55941","Microsoft Corporation"
+"Microsoft .NET Toolset 8.0.420 (x64)","32.15.61841","Microsoft Corporation"
+"Microsoft .NET Toolset 8.0.421 (x64)","32.15.18490","Microsoft Corporation"
+"Microsoft .NET Toolset 9.0.310 (x64)","36.10.51051","Microsoft Corporation"
+"Microsoft .NET Toolset 9.0.311 (x64)","36.10.51454","Microsoft Corporation"
+"Microsoft .NET Toolset 9.0.312 (x64)","36.11.56644","Microsoft Corporation"
+"Microsoft .NET Toolset 9.0.313 (x64)","36.11.62243","Microsoft Corporation"
+"Microsoft .NET Toolset 9.0.314 (x64)","36.11.34881","Microsoft Corporation"
+"Microsoft ASP.NET Core 2.2.7 Shared Framework (x64)","2.2.7.0",
+"Microsoft ASP.NET Core 2.2.8 Shared Framework (x64)","2.2.8.0",
+"Microsoft ASP.NET Core 3.0.1 Targeting Pack (x64)","3.0.1.0",
+"Microsoft ASP.NET Core 3.0.3 Shared Framework (x64)","3.0.3.0",
+"Microsoft ASP.NET Core 3.1.10 Targeting Pack (x64)","3.1.10.20520",
+"Microsoft ASP.NET Core 3.1.32 Shared Framework (x64)","3.1.32.22566",
+"Microsoft ASP.NET Core 5.0.0 Targeting Pack (x64)","5.0.0.20526",
+"Microsoft ASP.NET Core 5.0.17 Shared Framework (x64)","5.0.17.22215",
+"Microsoft ASP.NET Core 6.0.36 Shared Framework (x64)","6.0.36.24516",
+"Microsoft ASP.NET Core 6.0.36 Targeting Pack (x64)","6.0.36.24516",
+"Microsoft ASP.NET Core 7.0.20 Shared Framework (x64)","7.0.20.24269",
+"Microsoft ASP.NET Core 7.0.20 Targeting Pack (x64)","7.0.20.24269",
+"Microsoft ASP.NET Core 8.0.23 Shared Framework (x64)","8.0.23.25609","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.23 Targeting Pack (x64)","8.0.23.25609","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.24 Shared Framework (x64)","8.0.24.26072","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.24 Targeting Pack (x64)","8.0.24.26072","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.25 Shared Framework (x64)","8.0.25.26112","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.25 Targeting Pack (x64)","8.0.25.26112","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.26 Shared Framework (x64)","8.0.26.26169","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.26 Targeting Pack (x64)","8.0.26.26169","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.27 Shared Framework (x64)","8.0.27.26230","Microsoft Corporation"
+"Microsoft ASP.NET Core 8.0.27 Targeting Pack (x64)","8.0.27.26230","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.12 Shared Framework (x64)","9.0.12.25609","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.12 Targeting Pack (x64)","9.0.12.25609","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.13 Shared Framework (x64)","9.0.13.26064","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.13 Targeting Pack (x64)","9.0.13.26064","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.14 Shared Framework (x64)","9.0.14.26119","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.14 Targeting Pack (x64)","9.0.14.26119","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.15 Shared Framework (x64)","9.0.15.26176","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.15 Targeting Pack (x64)","9.0.15.26176","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.16 Shared Framework (x64)","9.0.16.26230","Microsoft Corporation"
+"Microsoft ASP.NET Core 9.0.16 Targeting Pack (x64)","9.0.16.26230","Microsoft Corporation"
+"Microsoft ASP.NET Core Runtime - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft ASP.NET Core Runtime - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft ASP.NET Core Runtime - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft ASP.NET Core Runtime - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft ASP.NET Core Runtime - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft ASP.NET Core Targeting Pack - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft ASP.NET Core Targeting Pack - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft ASP.NET Core Targeting Pack - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft ASP.NET Core Targeting Pack - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft ASP.NET Core Targeting Pack - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft Edge","148.0.3967.70","Microsoft Corporation"
+"Microsoft Visual Basic/C++ Runtime (x86)","1.1.0",
+"Microsoft Visual C++ 2005 Redistributable","8.0.61187",
+"Microsoft Visual C++ 2005 Redistributable (x64)","8.0.61186",
+"Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523","9.0.30729.7523",
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523","9.0.30729.7523",
+"Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219","10.0.40219","Microsoft Corporation"
+"Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219","10.0.40219","Microsoft Corporation"
+"Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030","11.0.61030","Microsoft Corporation"
+"Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030","11.0.61030","Microsoft Corporation"
+"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030","11.0.61030","Microsoft Corporation"
+"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030","11.0.61030","Microsoft Corporation"
+"Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664","12.0.40664",
+"Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664","12.0.40664",
+"Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664","12.0.40664","Microsoft Corporation"
+"Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664","12.0.40664","Microsoft Corporation"
+"Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36231","14.51.36231","Microsoft Corporation"
+"Microsoft Visual C++ 2022 X64 Debug Runtime - 14.44.35211","14.44.35211","Microsoft Corporation"
+"Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36231","14.51.36231","Microsoft Corporation"
+"Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36231","14.51.36231","Microsoft Corporation"
+"Microsoft Visual C++ 2022 X86 Debug Runtime - 14.44.35211","14.44.35211","Microsoft Corporation"
+"Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36231","14.51.36231","Microsoft Corporation"
+"Microsoft Visual Studio 2010 Tools for Office Runtime (x64)","10.0.60922",
+"Microsoft Visual Studio Setup Configuration","3.12.2140.44225","Microsoft Corporation"
+"Microsoft Visual Studio Setup WMI Provider","3.12.2140.44225","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 3.0.3 (x64)","24.12.28517",
+"Microsoft Windows Desktop Runtime - 3.1.32 (x64)","24.192.31915",
+"Microsoft Windows Desktop Runtime - 5.0.17 (x64)","40.68.31219",
+"Microsoft Windows Desktop Runtime - 6.0.36 (x64)","48.144.23186",
+"Microsoft Windows Desktop Runtime - 6.0.36 (x86)","48.144.23186","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 7.0.20 (x64)","56.80.15245",
+"Microsoft Windows Desktop Runtime - 7.0.20 (x86)","56.80.15245","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 8.0.19 (x64)","64.76.37602",
+"Microsoft Windows Desktop Runtime - 8.0.23 (x64)","64.92.45458","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 8.0.24 (x64)","64.96.47265","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 8.0.25 (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 8.0.25 (x86)","64.100.48707","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 8.0.26 (x64)","64.104.50433","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 8.0.27 (x64)","64.108.52193","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 9.0.12 (x64)","72.48.45460","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 9.0.13 (x64)","72.52.47159","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 9.0.14 (x64)","72.56.48819","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 9.0.15 (x64)","72.60.50530","Microsoft Corporation"
+"Microsoft Windows Desktop Runtime - 9.0.16 (x64)","72.64.52194","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 10.0.3 (x64)","80.12.47319","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 10.0.4 (x64)","80.16.48830","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 10.0.8 (x64)","80.32.52183","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 11.0.0 Preview 1 (x64)","88.0.48582","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 11.0.0 Preview 4 (x64)","88.0.52195","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 3.0.0 (x64)","24.0.28113",
+"Microsoft Windows Desktop Targeting Pack - 3.1.0 (x64)","24.64.28315",
+"Microsoft Windows Desktop Targeting Pack - 5.0.0 (x64)","40.0.29420",
+"Microsoft Windows Desktop Targeting Pack - 6.0.36 (x64)","48.144.23186",
+"Microsoft Windows Desktop Targeting Pack - 7.0.20 (x64)","56.80.15245",
+"Microsoft Windows Desktop Targeting Pack - 8.0.23 (x64)","64.92.45458","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 8.0.24 (x64)","64.96.47265","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 8.0.25 (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 8.0.26 (x64)","64.104.50433","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 8.0.27 (x64)","64.108.52193","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 9.0.12 (x64)","72.48.45460","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 9.0.13 (x64)","72.52.47159","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 9.0.14 (x64)","72.56.48819","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 9.0.15 (x64)","72.60.50530","Microsoft Corporation"
+"Microsoft Windows Desktop Targeting Pack - 9.0.16 (x64)","72.64.52194","Microsoft Corporation"
+"Microsoft XNA Framework Redistributable 4.0","4.0.20823.0","Microsoft Corporation"
+"Microsoft XNA Framework Redistributable 4.0 Refresh","4.0.30901.0","Microsoft Corporation"
+"Microsoft.NET.Sdk.Android.Manifest-10.0.100 (x64)","36.1.2","Microsoft Corporation"
+"Microsoft.NET.Sdk.Android.Manifest-11.0.100-preview.1 (x64)","33.204.47415","Microsoft Corporation"
+"Microsoft.NET.Sdk.Android.Manifest-6.0.300","128.75.16384",
+"Microsoft.NET.Sdk.Android.Manifest-7.0.100 (x64)","33.0.4",
+"Microsoft.NET.Sdk.Android.Manifest-8.0.100 (x64)","34.0.43","Microsoft Corporation"
+"Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)","35.0.7","Microsoft Corporation"
+"Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)","64.0.5426","Microsoft Corporation"
+"Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)","64.136.23253","Microsoft Corporation"
+"Microsoft.NET.Sdk.iOS.Manifest-10.0.100 (x64)","26.0.11017","Microsoft Corporation"
+"Microsoft.NET.Sdk.iOS.Manifest-11.0.100-preview.1 (x64)","26.2.11310","Microsoft Corporation"
+"Microsoft.NET.Sdk.iOS.Manifest-6.0.300","125.191.42208",
+"Microsoft.NET.Sdk.iOS.Manifest-7.0.100 (x64)","16.0.0",
+"Microsoft.NET.Sdk.iOS.Manifest-8.0.100 (x64)","17.0.8478","Microsoft Corporation"
+"Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)","18.0.9617","Microsoft Corporation"
+"Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100 (x64)","26.0.11017","Microsoft Corporation"
+"Microsoft.NET.Sdk.MacCatalyst.Manifest-11.0.100-preview.1 (x64)","26.2.11310","Microsoft Corporation"
+"Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.300","125.191.42208",
+"Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100 (x64)","15.4.0",
+"Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100 (x64)","17.0.8478","Microsoft Corporation"
+"Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)","18.0.9617","Microsoft Corporation"
+"Microsoft.NET.Sdk.macOS.Manifest-10.0.100 (x64)","26.0.11017","Microsoft Corporation"
+"Microsoft.NET.Sdk.macOS.Manifest-11.0.100-preview.1 (x64)","26.2.11310","Microsoft Corporation"
+"Microsoft.NET.Sdk.macOS.Manifest-6.0.300","100.255.42208",
+"Microsoft.NET.Sdk.macOS.Manifest-7.0.100 (x64)","12.3.0",
+"Microsoft.NET.Sdk.macOS.Manifest-8.0.100 (x64)","14.0.8478","Microsoft Corporation"
+"Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)","15.0.9617","Microsoft Corporation"
+"Microsoft.NET.Sdk.Maui.Manifest-10.0.100 (x64)","10.0.0","Microsoft Corporation"
+"Microsoft.NET.Sdk.Maui.Manifest-11.0.100-preview.1 (x64)","88.0.48554","Microsoft Corporation"
+"Microsoft.NET.Sdk.Maui.Manifest-6.0.300","24.78.0",
+"Microsoft.NET.Sdk.Maui.Manifest-7.0.100 (x64)","7.0.49",
+"Microsoft.NET.Sdk.Maui.Manifest-8.0.100 (x64)","8.0.3","Microsoft Corporation"
+"Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)","9.0.0","Microsoft Corporation"
+"Microsoft.NET.Sdk.tvOS.Manifest-10.0.100 (x64)","26.0.11017","Microsoft Corporation"
+"Microsoft.NET.Sdk.tvOS.Manifest-11.0.100-preview.1 (x64)","26.2.11310","Microsoft Corporation"
+"Microsoft.NET.Sdk.tvOS.Manifest-6.0.300","125.191.42208",
+"Microsoft.NET.Sdk.tvOS.Manifest-7.0.100 (x64)","16.0.0",
+"Microsoft.NET.Sdk.tvOS.Manifest-8.0.100 (x64)","17.0.8478","Microsoft Corporation"
+"Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)","18.0.9617","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","72.56.52051","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","72.56.48675","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","64.104.50388","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","64.96.47011","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","72.56.50513","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","64.108.52097","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","64.92.45353","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","72.52.45351","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","72.56.47012","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)","64.100.48546","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Current.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.Manifest (x64)","48.144.23281",
+"Microsoft.NET.Workload.Emscripten.net10.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net10.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","64.104.50388","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","64.96.47011","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","72.56.47012","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","64.100.48546","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","72.52.45351","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","72.56.52051","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","72.56.48675","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","72.56.50513","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","64.92.45353","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","64.108.52097","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)","56.80.15172",
+"Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net6.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","64.96.47011","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","72.56.47012","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","64.92.45353","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","64.108.52097","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","72.56.50513","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","72.56.52051","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","64.100.48546","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","72.52.45351","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","72.56.48675","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","56.80.15172",
+"Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)","64.104.50388","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net7.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)","72.56.47012","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)","72.56.52051","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)","72.56.48675","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)","72.56.50513","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)","72.52.45351","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net8.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net9.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Emscripten.net9.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","72.0.47121","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","72.0.50518","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","72.0.45417","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","72.0.48826","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)","72.0.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.Manifest","48.3.40665",
+"Microsoft.NET.Workload.Mono.Toolchain.net10.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net10.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","72.0.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","56.80.15184",
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","72.0.45417","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","72.0.50518","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","72.0.48826","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","72.0.47121","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","56.80.15184",
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","64.108.52182","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","64.100.48707","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","64.96.47242","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","64.104.50421","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","72.0.50518","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","64.92.45415","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","72.0.48826","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","72.0.45417","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","72.0.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)","72.0.47121","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)","72.0.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)","72.0.50518","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)","72.0.47121","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)","72.0.45417","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)","72.0.48826","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64)","81.176.52183","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64)","81.160.48830","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64)","81.156.47319","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-11.0.100-preview.1 (x64)","89.144.48582","Microsoft Corporation"
+"Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-11.0.100-preview.4 (x64)","89.144.52195","Microsoft Corporation"
+"MSI Development Tools","10.1.26100.7705","Microsoft Corporation"
+"murmure","1.8.1","al1x-ai"
+"Node.js","24.13.0","Node.js Foundation"
+"NVIDIA PhysX (Legacy)","9.13.0604","NVIDIA Corporation"
+"Paragon Hard Disk Manager? 17 Business","17.20.14.6174",
+"Patriot Viper M2 SSD RGB","1.1.0.3",
+"PowerShell 7-x64","7.6.1.0","Microsoft Corporation"
+"Promontory_GPIO Driver","3.0.5.0","Advanced Micro Devices, Inc."
+"Python 3.11.9 Add to Path (64-bit)","3.11.9150.0",
+"Python 3.11.9 Core Interpreter (64-bit)","3.11.9150.0",
+"Python 3.11.9 Development Libraries (64-bit)","3.11.9150.0",
+"Python 3.11.9 Documentation (64-bit)","3.11.9150.0",
+"Python 3.11.9 Executables (64-bit)","3.11.9150.0",
+"Python 3.11.9 pip Bootstrap (64-bit)","3.11.9150.0",
+"Python 3.11.9 Standard Library (64-bit)","3.11.9150.0",
+"Python 3.11.9 Tcl/Tk Support (64-bit)","3.11.9150.0",
+"Python 3.11.9 Test Suite (64-bit)","3.11.9150.0",
+"Python 3.11.9 Utility Scripts (64-bit)","3.11.9150.0",
+"Python 3.12.10 Add to Path (64-bit)","3.12.10150.0",
+"Python 3.12.10 Core Interpreter (64-bit)","3.12.10150.0",
+"Python 3.12.10 Development Libraries (64-bit)","3.12.10150.0",
+"Python 3.12.10 Documentation (64-bit)","3.12.10150.0",
+"Python 3.12.10 Executables (64-bit)","3.12.10150.0",
+"Python 3.12.10 pip Bootstrap (64-bit)","3.12.10150.0",
+"Python 3.12.10 Standard Library (64-bit)","3.12.10150.0",
+"Python 3.12.10 Tcl/Tk Support (64-bit)","3.12.10150.0",
+"Python 3.12.10 Test Suite (64-bit)","3.12.10150.0",
+"Python Launcher","3.13.5150.0",
+"Python Launcher","3.11.8150.0",
+"RyzenMasterSDK","1.2.3.5","Advanced Micro Devices, Inc."
+"SDK ARM64 Additions","10.1.26100.7705","Microsoft Corporation"
+"SDK ARM64 Redistributables","10.1.26100.7705","Microsoft Corporation"
+"Smart Backup (x64)","3.24.0829.1","Gigabyte"
+"Tactical Monitor AI","1.0.0",
+"Universal CRT Extension SDK","10.1.26100.7705","Microsoft Corporation"
+"Universal CRT Headers Libraries and Sources","10.1.26100.7705","Microsoft Corporation"
+"Universal CRT Redistributable","10.0.26624","Microsoft Corporation"
+"Universal CRT Redistributable","10.1.26100.7705","Microsoft Corporation"
+"Universal CRT Tools x64","10.1.26100.7705","Microsoft Corporation"
+"Universal CRT Tools x86","10.1.26100.7705","Microsoft Corporation"
+"Universal General MIDI DLS Extension SDK","10.1.26100.7705","Microsoft Corporation"
+"vcpp_crt.redist.clickonce","14.44.35211","Microsoft Corporation"
+"Verbatim_SureFireGaming_Product","1.0.3.11",
+"VS Script Debugging Common","17.0.157.0","Microsoft Corporation"
+"vs_communitymsires","17.14.36015","Microsoft Corporation"
+"vs_communitysharedmsi","17.14.36025","Microsoft Corporation"
+"vs_communityx64msi","17.14.36025","Microsoft Corporation"
+"vs_CoreEditorFonts","17.7.40001","Microsoft Corporation"
+"vs_filehandler_amd64","17.14.36024","Microsoft Corporation"
+"vs_filehandler_x86","17.14.36024","Microsoft Corporation"
+"vs_FileTracker_Singleton","17.14.36015","Microsoft Corporation"
+"vs_githubprotocolhandlermsi","17.14.36015","Microsoft Corporation"
+"vs_minshellinteropmsi","17.14.36015","Microsoft Corporation"
+"vs_minshellinteropsharedmsi","17.14.36015","Microsoft Corporation"
+"vs_minshellmsi","17.14.36301","Microsoft Corporation"
+"vs_minshellmsires","17.14.36015","Microsoft Corporation"
+"vs_minshellsharedmsi","17.14.36024","Microsoft Corporation"
+"vs_vswebprotocolselectormsi","17.14.36323","Microsoft Corporation"
+"WD P40 Game Drive","1.0.2.18",
+"WinAppDeploy","10.1.26100.7705","Microsoft Corporation"
+"Windows App Certification Kit Native Components","10.1.26100.7705","Microsoft Corporation"
+"Windows App Certification Kit SupportedApiList x86","10.1.26100.7705","Microsoft Corporation"
+"Windows App Certification Kit x64","10.1.26100.7705","Microsoft Corporation"
+"Windows App Certification Kit x64 (OnecoreUAP)","10.1.26100.7705","Microsoft Corporation"
+"Windows Desktop Extension SDK","10.1.26100.7705","Microsoft Corporation"
+"Windows Desktop Extension SDK Contracts","10.1.26100.7705","Microsoft Corporation"
+"Windows IoT Extension SDK","10.1.26100.7705","Microsoft Corporation"
+"Windows IoT Extension SDK Contracts","10.1.26100.7705","Microsoft Corporation"
+"Windows Mobile Extension SDK","10.1.26100.7705","Microsoft Corporation"
+"Windows Mobile Extension SDK Contracts","10.1.26100.7705","Microsoft Corporation"
+"Windows PE Boot Files (DesktopEditions)","10.1.26100.2454","Microsoft"
+"Windows PE Boot Files (OnecoreUAP)","10.1.26100.2454","Microsoft"
+"Windows PE Optional Packages (DesktopEditions)","10.1.26100.2454","Microsoft"
+"Windows PE Scripts","10.1.26100.2454","Microsoft"
+"Windows PE wims (DesktopEditions)","10.1.26100.2454","Microsoft"
+"Windows SDK","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK AddOn","10.1.0.0","Microsoft Corporation"
+"Windows SDK ARM64 Desktop Tools","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Headers arm64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Headers x64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Headers x86","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Libs arm64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Libs x64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Libs x86","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Tools arm64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Tools x64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Desktop Tools x86","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK DirectX x64 Remote","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK DirectX x86 Remote","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK EULA","10.1.26100.7705","Microsoft Corporations"
+"Windows SDK Facade Windows WinMD Versioned","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps Contracts","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps DirectX x86 Remote","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps Headers","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps Headers OnecoreUap","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps Libs","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps Metadata","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Apps Tools","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK for Windows Store Managed Apps Libs","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Modern Non-Versioned Developer Tools","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Modern Versioned Developer Tools","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK OnecoreUap Headers arm64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK OnecoreUap Headers x64","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK OnecoreUap Headers x86","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Redistributables","10.1.26100.7705","Microsoft Corporation"
+"Windows SDK Signing Tools","10.1.26100.7705","Microsoft Corporation"
+"Windows Subsystem for Linux","2.7.3.0","Microsoft Corporation"
+"Windows Team Extension SDK","10.1.26100.7705","Microsoft Corporation"
+"Windows Team Extension SDK Contracts","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense Desktop - en-us","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense Desktop - Other Languages","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense IoT - en-us","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense IoT - Other Languages","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense Mobile - en-us","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense PPI - en-us","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense PPI - Other Languages","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense UAP - en-us","10.1.26100.7705","Microsoft Corporation"
+"WinRT Intellisense UAP - Other Languages","10.1.26100.7705","Microsoft Corporation"

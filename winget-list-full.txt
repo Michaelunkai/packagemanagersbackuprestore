@@ -1,0 +1,308 @@
+
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+                                                                                                                        
+Name                                          Id                                             Version            Source
+-----------------------------------------------------------------------------------------------------------------------
+7-Zip 26.01 (x64)                             7zip.7zip                                      26.01              winget
+GIGABYTE A.I. Snatch                          ARP\Machine\X64\AISnatch                       24.11.19.01        
+AMD Software                                  ARP\Machine\X64\AMD Catalyst Install Manager   26.5.2             
+AMD Ryzen Master                              ARP\Machine\X64\AMD Ryzen Master               3.0.2.5029         
+GIGABYTE Installer                            ARP\Machine\X64\AmdX3DInstaller                25.11.05.01        
+AutoHotkey                                    AutoHotkey.AutoHotkey                          2.0.26             winget
+Docker Desktop                                Docker.DockerDesktop                           4.73.1             winget
+Windows Driver Package - libusb-win32 (libusGÇª ARP\Machine\X64\EA3C9FCE0A5BFC25608F734A38246GÇª 11/21/2017 1.2.6.0 
+Everything 1.4.1.1032 (x64)                   ARP\Machine\X64\Everything                     1.4.1.1032         
+GIGABYTE SSD Firmware Update Tool             ARP\Machine\X64\GBTSsdFirmwareUpdate           24.06.19.01        
+GBT_Dynamic_Lighting_Lib_UC 25.07.21.01       ARP\Machine\X64\GBT_Dynamic_Lighting_Lib_UC    25.07.21.01        
+GBT_MB_Update                                 ARP\Machine\X64\GBT_MB_Update                  26.01.14.01        
+GBT_RGB_Sync_Control 26.03.25.01              ARP\Machine\X64\GBT_RGB_Sync_Control           26.03.25.01        
+GBT_VGA 26.04.20.01                           ARP\Machine\X64\GBT_VGA                        26.04.20.01        
+GIGABYTE Wi-Fi Compass                        ARP\Machine\X64\GBT_WiFiCompass                24.10.30.01        
+GBT_rgbMotherboard_UC 26.03.25.01             ARP\Machine\X64\GBT_rgbMotherboard_UC          26.03.25.01        
+GIGABYTE Control Center 26.03.26.01           ARP\Machine\X64\GIGABYTE Control Center        26.03.26.01        
+GIGABYTE OnFly X3D                            ARP\Machine\X64\GbtAmdOnFlyX3d                 25.10.14.01        
+Git                                           ARP\Machine\X64\Git_is1                        2.54.0             
+LockHunter 3.4, 32/64 bit                     CrystalRich.LockHunter                         3.4.3.146          winget
+GIGABYTE Performance Library                  ARP\Machine\X64\MBEasyTune                     26.03.19.01        
+GIGABYTE Storage Library                      ARP\Machine\X64\MBStorage                      26.04.27.02        
+Macrium Reflect Workstation                   ARP\Machine\X64\MacriumReflect                 v8.1.8631          
+Mozilla Firefox (x64 en-US)                   ARP\Machine\X64\Mozilla Firefox                150.0.3            
+Mozilla Maintenance Service                   ARP\Machine\X64\MozillaMaintenanceService      150.0.3            
+Sidekick 25.09.30.01                          ARP\Machine\X64\Sidekick                       25.09.30.01        
+Tesseract-OCR - open source OCR engine        UB-Mannheim.TesseractOCR                       5.4.0.20240606     winget
+VLC media player                              VideoLAN.VLC                                   3.0.23             winget
+Obsidian                                      Obsidian.Obsidian                              1.12.7             winget
+Microsoft Visual C++ 2005 Redistributable (xGÇª Microsoft.VCRedist.2005.x64                    8.0.61187          winget
+Microsoft Visual C++ 2005 Redistributable (xGÇª Microsoft.VCRedist.2005.x64                    8.0.61186          winget
+Microsoft Visual C++ 2008 Redistributable (xGÇª Microsoft.VCRedist.2008.x64                    9.0.30729.7523     winget
+Microsoft Visual C++ 2008 Redistributable (xGÇª Microsoft.VCRedist.2008.x86                    9.0.30729.7523     winget
+Microsoft Visual C++ 2010 Redistributable (xGÇª Microsoft.VCRedist.2010.x64                    10.0.40219.473     winget
+Microsoft Visual C++ 2010 Redistributable (xGÇª Microsoft.VCRedist.2010.x64                    10.0.40219.473     winget
+Microsoft Visual C++ 2012 Redistributable (xGÇª Microsoft.VCRedist.2012.x64                    11.0.61135.400     winget
+Microsoft Visual C++ 2012 Redistributable (xGÇª Microsoft.VCRedist.2012.x64                    11.0.61030.0       winget
+Microsoft Visual C++ 2012 Redistributable (xGÇª Microsoft.VCRedist.2012.x64                    11.0.61030.0       winget
+Microsoft Visual C++ 2012 Redistributable (xGÇª Microsoft.VCRedist.2012.x86                    11.0.61135.400     winget
+Microsoft Visual C++ 2012 Redistributable (xGÇª Microsoft.VCRedist.2012.x86                    11.0.61030.0       winget
+Microsoft Visual C++ 2013 Redistributable (xGÇª Microsoft.VCRedist.2013.x64                    12.0.40664.0       winget
+Microsoft Visual C++ 2013 Redistributable (xGÇª Microsoft.VCRedist.2013.x64                    12.0.40664.0       winget
+Microsoft Visual C++ 2013 Redistributable (xGÇª Microsoft.VCRedist.2013.x86                    12.0.40664.0       winget
+Microsoft Visual C++ 2013 Redistributable (xGÇª Microsoft.VCRedist.2013.x86                    12.0.40664.0       winget
+Microsoft Visual Studio 2010 Tools for OfficGÇª Microsoft.VSTOR                                10.0.60922         winget
+Microsoft Visual Studio Installer             ARP\Machine\X64\{6F320B93-EE3C-4826-85E0-ADF7GÇª 4.5.35.35368       
+AMD Install Manager                           ARP\Machine\X64\{7796C69D-F8AB-4801-AAFA-EC2EGÇª 25.10.26126.2250   
+PowerShell 7-x64                              Microsoft.PowerShell                           7.6.1.0            winget
+murmure                                       Kieirra.Murmure                                1.8.1              winget
+Google Chrome                                 Google.Chrome                                  148.0.7778.168     winget
+NVIDIA Graphics Driver 596.21                 ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AGÇª 596.21             
+NVIDIA App 11.0.7.247                         ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AGÇª 11.0.7.247         
+NVIDIA PhysX System Software 9.23.1019        Nvidia.PhysX                                   9.23.1019          winget
+NVIDIA FrameView SDK 1.7.12227.37421622       ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AGÇª 1.7.12227.37421622 
+NVIDIA HD Audio Driver 1.4.5.7                ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AGÇª 1.4.5.7            
+GitHub CLI                                    GitHub.cli                                     2.92.0             winget
+AMD Privacy View                              ARP\Machine\X64\{D8E24EA6-807B-48D0-86D6-A9C5GÇª 1.02.0001          
+Tactical Monitor AI                           ARP\Machine\X64\{DAFD63D2-8234-4E3B-A382-25C3GÇª 1.0.0              
+Node.js                                       ARP\Machine\X64\{F4937DE9-DA3D-4B72-9930-F302GÇª 24.13.0            
+Visual Studio Build Tools 2022                Microsoft.VisualStudio.2022.BuildTools         17.14.32           winget
+AMD Chipset Software                          ARP\Machine\X86\AMD_Chipset_IODrivers          8.03.25.247        
+Game Backup Monitor (32-bit)                  ARP\Machine\X86\Game Backup Monitor (32-bit)   1.4.4              
+GameSave Manager v3                           ARP\Machine\X86\GameSaveManager_v3             3.1.571.0          
+Halo: TMCC - Essential Files                  ARP\Machine\X86\Halo: TMCC - Essential Files_GÇª Unknown            
+Inno Setup version 6.7.2                      JRSoftware.InnoSetup                           6.7.2              winget
+Smart Backup (x64)                            ARP\Machine\X86\InstallShield_{BC1FA5CF-A36F-GÇª 3.24.0829.1        
+Logi Download Assistant                       ARP\Machine\X86\LogiDownloadAssistant          2.0.529            
+MIO: Memories in Orbit                        ARP\Machine\X86\MIO: Memories in Orbit_is1     Unknown            
+GnuWin32: Make-3.81                           GnuWin32.Make                                  3.81               winget
+OpenAL                                        CreativeTechnology.OpenAL                      1.1                winget
+PhonerLite 3.38                               Phoner.PhonerLite                              3.38               winget
+Tweaking.com - Windows Repair                 Tweaking.WindowsRepair                         4.14.0             winget
+UNCHARTED: LoT Collection                     ARP\Machine\X86\UNCHARTED: LoT Collection_is1  Unknown            
+qBittorrent                                   ARP\Machine\X86\qBittorrent                    5.1.4              
+Microsoft ASP.NET Core 9.0.16 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.9                  9.0.16             winget
+Microsoft ASP.NET Core 9.0.15 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.9                  9.0.15             winget
+Microsoft ASP.NET Core 9.0.14 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.9                  9.0.14             winget
+Microsoft ASP.NET Core 9.0.13 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.9                  9.0.13             winget
+Microsoft ASP.NET Core 9.0.12 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.9                  9.0.12             winget
+Microsoft Windows Desktop Runtime 10.0.8 (x6GÇª Microsoft.DotNet.DesktopRuntime.10             10.0.8             winget
+Microsoft .NET Runtime - 8.0.27 (x64)         Microsoft.DotNet.Runtime.8                     8.0.27             winget
+Microsoft .NET Runtime - 8.0.26 (x64)         Microsoft.DotNet.Runtime.8                     8.0.26             winget
+Microsoft .NET Runtime - 8.0.25 (x64)         Microsoft.DotNet.Runtime.8                     8.0.25             winget
+Microsoft .NET Runtime - 8.0.24 (x64)         Microsoft.DotNet.Runtime.8                     8.0.24             winget
+Microsoft Windows Desktop Runtime - 6.0.36 (GÇª Microsoft.DotNet.DesktopRuntime.6              6.0.36             winget
+Microsoft .NET SDK 10.0.300 (x64)             Microsoft.DotNet.SDK.10                        10.0.300           winget
+Microsoft .NET SDK 10.0.204 (x64)             Microsoft.DotNet.SDK.10                        10.0.204           winget
+Microsoft .NET SDK 10.0.200 (x64)             Microsoft.DotNet.SDK.10                        10.0.200           winget
+Microsoft .NET SDK 10.0.108 (x64)             Microsoft.DotNet.SDK.10                        10.0.108           winget
+Microsoft .NET SDK 10.0.104 (x64)             Microsoft.DotNet.SDK.10                        10.0.104           winget
+Microsoft .NET SDK 10.0.103 (x64)             Microsoft.DotNet.SDK.10                        10.0.103           winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x86                   14.51.36231.0      winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x86                   14.44.35211.0      winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x86                   14.38.33130.0      winget
+Microsoft Visual C++ 2015-2019 RedistributabGÇª Microsoft.VCRedist.2015+.x86                   14.23.27820.0      winget
+Microsoft Windows Desktop Runtime - 3.1.32 (GÇª Microsoft.DotNet.DesktopRuntime.3_1            3.1.32             winget
+Windows SDK AddOn                             ARP\Machine\X86\{13D2A7A2-1B42-4C03-8F0F-6979GÇª 10.1.0.0           
+Microsoft .NET Runtime - 7.0.20 (x64)         Microsoft.DotNet.Runtime.7                     7.0.20             winget
+Microsoft ASP.NET Core Runtime - 10.0.8 (x64) Microsoft.DotNet.AspNetCore.10                 10.0.8             winget
+Microsoft ASP.NET Core Runtime - 10.0.4 (x64) Microsoft.DotNet.AspNetCore.10                 10.0.4             winget
+Microsoft ASP.NET Core Runtime - 10.0.3 (x64) Microsoft.DotNet.AspNetCore.10                 10.0.3             winget
+Microsoft .NET Core SDK 3.1.426 (x64)         Microsoft.DotNet.SDK.3_1                       3.1.426            winget
+Microsoft .NET Core SDK 2.2.402 (x64)         Microsoft.DotNet.SDK.3_1                       < 3.1.419          winget
+Microsoft .NET Core SDK 3.0.103 (x64)         Microsoft.DotNet.SDK.3_1                       < 3.1.419          winget
+Microsoft .NET Core SDK 2.2.207 (x64)         Microsoft.DotNet.SDK.3_1                       < 3.1.419          winget
+vs_CoreEditorFonts                            ARP\Machine\X86\{1851460E-0E63-4117-B5BA-25A2GÇª 17.7.40001         
+Microsoft ASP.NET Core 8.0.27 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.8                  8.0.27             winget
+Microsoft ASP.NET Core 8.0.26 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.8                  8.0.26             winget
+Microsoft ASP.NET Core 8.0.25 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.8                  8.0.25             winget
+Microsoft ASP.NET Core 8.0.24 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.8                  8.0.24             winget
+Microsoft ASP.NET Core 8.0.23 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.8                  8.0.23             winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x64                   14.51.36231.0      winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x64                   14.44.35211.0      winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x64                   14.42.34433.0      winget
+Microsoft Visual C++ 2015-2022 RedistributabGÇª Microsoft.VCRedist.2015+.x64                   14.38.33130.0      winget
+Microsoft Visual C++ 2015-2019 RedistributabGÇª Microsoft.VCRedist.2015+.x64                   14.23.27820.0      winget
+Microsoft .NET SDK 11.0.100-preview.4.26230.GÇª Microsoft.DotNet.SDK.Preview                   11.0.100-preview.GÇª winget
+Microsoft .NET SDK 11.0.100-preview.1.26104.GÇª Microsoft.DotNet.SDK.Preview                   11.0.100-preview.GÇª winget
+Microsoft Windows Desktop Runtime - 5.0.17 (GÇª Microsoft.DotNet.DesktopRuntime.5              5.0.17             winget
+Microsoft XNA Framework Redistributable 4.0 GÇª Microsoft.XNARedist                            4.0.30901.0        winget
+Microsoft XNA Framework Redistributable 4.0   Microsoft.XNARedist                            4.0.20823.0        winget
+Microsoft .NET SDK 9.0.314 (x64)              Microsoft.DotNet.SDK.9                         9.0.314            winget
+Microsoft .NET SDK 9.0.313 (x64)              Microsoft.DotNet.SDK.9                         9.0.313            winget
+Microsoft .NET SDK 9.0.312 (x64)              Microsoft.DotNet.SDK.9                         9.0.312            winget
+Microsoft .NET SDK 9.0.311 (x64)              Microsoft.DotNet.SDK.9                         9.0.311            winget
+Microsoft .NET SDK 9.0.310 (x64)              Microsoft.DotNet.SDK.9                         9.0.310            winget
+Microsoft Windows Desktop Runtime - 8.0.27 (GÇª Microsoft.DotNet.DesktopRuntime.8              8.0.27             winget
+Microsoft Windows Desktop Runtime - 8.0.26 (GÇª Microsoft.DotNet.DesktopRuntime.8              8.0.26             winget
+Microsoft Windows Desktop Runtime - 8.0.24 (GÇª Microsoft.DotNet.DesktopRuntime.8              8.0.24             winget
+Microsoft Windows Desktop Runtime - 8.0.23 (GÇª Microsoft.DotNet.DesktopRuntime.8              8.0.23             winget
+Microsoft Windows Desktop Runtime - 8.0.19 (GÇª Microsoft.DotNet.DesktopRuntime.8              8.0.19             winget
+Microsoft .NET SDK 7.0.410 (x64)              Microsoft.DotNet.SDK.7                         7.0.410            winget
+Microsoft Windows Desktop Runtime - 7.0.20 (GÇª Microsoft.DotNet.DesktopRuntime.7              7.0.20             winget
+Microsoft Windows Desktop Runtime - 8.0.25 (GÇª Microsoft.DotNet.DesktopRuntime.8.x86          8.0.25             winget
+Microsoft .NET Core SDK Uninstall Tool (x86)  Microsoft.DotNet.UninstallTool                 1.7.661902         winget
+VLIBillboardTest                              ARP\Machine\X86\{3CBD3203-B36A-42C3-BE84-D4DBGÇª Unknown            
+Microsoft Windows Desktop Runtime 11.0.0 (x6GÇª Microsoft.DotNet.DesktopRuntime.Preview        11.0.0-preview.4.GÇª winget
+Microsoft Windows Desktop Runtime 11.0.0 (x6GÇª Microsoft.DotNet.DesktopRuntime.Preview        11.0.0-preview.1.GÇª winget
+Microsoft Windows Desktop Runtime - 7.0.20 (GÇª Microsoft.DotNet.DesktopRuntime.Preview        < 8.0.0-preview.1GÇª winget
+Microsoft Windows Desktop Runtime - 6.0.36 (GÇª Microsoft.DotNet.DesktopRuntime.Preview        < 7.0.0-preview.4GÇª winget
+Microsoft .NET Runtime - 10.0.8 (x64)         Microsoft.DotNet.Runtime.10                    10.0.8             winget
+Microsoft .NET Runtime - 10.0.5 (x64)         Microsoft.DotNet.Runtime.10                    10.0.5             winget
+Microsoft .NET Runtime - 10.0.4 (x64)         Microsoft.DotNet.Runtime.10                    10.0.4             winget
+Microsoft .NET Runtime - 10.0.3 (x64)         Microsoft.DotNet.Runtime.10                    10.0.3             winget
+SpinRite version 6.1 Release 4                ARP\Machine\X86\{44ABF2AE-A341-41B4-A6AF-5A4BGÇª 6.1 Release 4      
+Game Save Manager version 2.1.0               YongcanYang.GameSaveManager                    2.1.0              winget
+Microsoft .NET Runtime - 9.0.16 (x64)         Microsoft.DotNet.Runtime.9                     9.0.16             winget
+Microsoft .NET Runtime - 9.0.15 (x64)         Microsoft.DotNet.Runtime.9                     9.0.15             winget
+Microsoft .NET Runtime - 9.0.14 (x64)         Microsoft.DotNet.Runtime.9                     9.0.14             winget
+Microsoft .NET Runtime - 9.0.13 (x64)         Microsoft.DotNet.Runtime.9                     9.0.13             winget
+Microsoft ASP.NET Core 6.0.36 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.6                  6.0.36             winget
+Microsoft .NET SDK 5.0.408 (x64)              Microsoft.DotNet.SDK.5                         5.0.408            winget
+Microsoft Windows Desktop Runtime - 8.0.25 (GÇª Microsoft.DotNet.DesktopRuntime.8.x64          8.0.25             winget
+Microsoft ASP.NET Core 3.1.32 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.3_1                3.1.32             winget
+Python Launcher                               Python.Launcher                                3.13.5             winget
+Python Launcher                               Python.Launcher                                3.11.8             winget
+Microsoft ASP.NET Core 7.0.20 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.7                  7.0.20             winget
+Microsoft Windows Desktop Runtime - 9.0.16 (GÇª Microsoft.DotNet.DesktopRuntime.9              9.0.16             winget
+Microsoft Windows Desktop Runtime - 9.0.15 (GÇª Microsoft.DotNet.DesktopRuntime.9              9.0.15             winget
+Microsoft Windows Desktop Runtime - 9.0.14 (GÇª Microsoft.DotNet.DesktopRuntime.9              9.0.14             winget
+Microsoft Windows Desktop Runtime - 9.0.13 (GÇª Microsoft.DotNet.DesktopRuntime.9              9.0.13             winget
+Microsoft Windows Desktop Runtime - 9.0.12 (GÇª Microsoft.DotNet.DesktopRuntime.9              9.0.12             winget
+Microsoft .NET Core Runtime - 3.1.32 (x64)    Microsoft.DotNet.Runtime.3_1                   3.1.32             winget
+Microsoft .NET Core Runtime - 2.1.30 (x64)    Microsoft.DotNet.Runtime.3_1                   < 3.1.25           winget
+Microsoft .NET SDK 6.0.428 (x64)              Microsoft.DotNet.SDK.6                         6.0.428            winget
+Microsoft .NET SDK 8.0.421 (x64)              Microsoft.DotNet.SDK.8                         8.0.421            winget
+Microsoft .NET SDK 8.0.420 (x64)              Microsoft.DotNet.SDK.8                         8.0.420            winget
+Microsoft .NET SDK 8.0.419 (x64)              Microsoft.DotNet.SDK.8                         8.0.419            winget
+Microsoft .NET SDK 8.0.418 (x64)              Microsoft.DotNet.SDK.8                         8.0.418            winget
+Microsoft .NET SDK 8.0.417 (x64)              Microsoft.DotNet.SDK.8                         8.0.417            winget
+Realtek Ethernet Controller Driver            ARP\Machine\X86\{8833FFB6-5B0C-4764-81AA-06DFGÇª 11.28.20.1224      
+Microsoft .NET Runtime - 11.0.0 Preview 4 (xGÇª Microsoft.DotNet.Runtime.Preview               11.0.0-preview.4.GÇª winget
+Microsoft .NET Runtime - 11.0.0 Preview 2 (xGÇª Microsoft.DotNet.Runtime.Preview               11.0.0-preview.2.GÇª winget
+Microsoft .NET Runtime - 11.0.0 Preview 1 (xGÇª Microsoft.DotNet.Runtime.Preview               11.0.0-preview.1.GÇª winget
+Microsoft .NET Runtime - 6.0.36 (x64)         Microsoft.DotNet.Runtime.6                     6.0.36             winget
+Microsoft ASP.NET Core Runtime - 11.0.0 PrevGÇª Microsoft.DotNet.AspNetCore.Preview            11.0.0-preview.4.GÇª winget
+Microsoft ASP.NET Core Runtime - 11.0.0 PrevGÇª Microsoft.DotNet.AspNetCore.Preview            11.0.0-preview.1.GÇª winget
+Microsoft Visual Basic/C++ Runtime (x86)      ARP\Machine\X86\{C5E3A69D-D391-45A6-A8FB-00B0GÇª 1.1.0              
+Realtek Audio Driver                          ARP\Machine\X86\{F132AF7F-7BCA-4EDE-8A7C-9581GÇª 6.0.9927.1         
+cloudflared                                   Cloudflare.cloudflared                         2026.5.0           winget
+NVIDIA PhysX (Legacy)                         Nvidia.PhysXLegacy                             9.13.0604          winget
+Microsoft .NET Runtime - 5.0.17 (x64)         Microsoft.DotNet.Runtime.5                     5.0.17             winget
+Windows Software Development Kit - Windows 1GÇª Microsoft.WindowsSDK.10.0.26100                10.0.26100.7705    winget
+Corsair Device Control Service Bundle         ARP\Machine\X86\{d04eddd3-9909-49af-aa59-b30eGÇª 1.7.27             
+Corsair Device Control Service Bundle         ARP\Machine\X86\{dffe1772-7f42-4dd2-ae7c-f07bGÇª 1.9.9              
+Windows Assessment and Deployment Kit WindowGÇª Microsoft.WindowsADK.WinPEAddon                10.1.26100.2454    winget
+Microsoft ASP.NET Core 5.0.17 - Shared FrameGÇª Microsoft.DotNet.AspNetCore.5                  5.0.17             winget
+Hydra                                         HydraLauncher.Hydra                            3.9.7              winget
+QuadDown                                      ARP\User\X64\98eb6809-1def-5ded-a5eb-f7749bf9GÇª 10.1.1             
+Claude                                        Anthropic.Claude                               1.7196.3.0         winget
+Claude                                        Anthropic.Claude                               1.3561.0           winget
+WinLibs (POSIX threads, UCRT runtime)         ARP\User\X64\BrechtSanders.WinLibs.POSIX.UCRTGÇª 15.2.0-13.0.0-r5   
+Bun                                           ARP\User\X64\Bun                               Unknown            
+RipGrep MSVC                                  BurntSushi.ripgrep.MSVC                        15.1.0             winget
+TestDisk                                      CGSecurity.TestDisk                            7.3                winget
+Fit Launcher                                  ARP\User\X64\Fit Launcher                      4.1.1              
+OpenSpeedy                                    Game1024.OpenSpeedy                            1.7.9              winget
+Copilot CLI                                   GitHub.Copilot                                 v1.0.48            winget
+GitHub Desktop                                GitHub.GitHubDesktop                           3.5.8              winget
+FFmpeg                                        ARP\User\X64\Gyan.FFmpeg_Microsoft.Winget.SouGÇª 8.0.1              
+OSCDIMG                                       Microsoft.OSCDIMG                              2.56               winget
+Speedtest CLI                                 Ookla.Speedtest.CLI                            1.2.0.84           winget
+Codex CLI                                     OpenAI.Codex                                   0.130.0            winget
+Rclone                                        Rclone.Rclone                                  1.74.1             winget
+SQLite                                        SQLite.SQLite                                  3.53.1             winget
+Wand                                          ARP\User\X64\Wand                              12.24.0            
+Ascendara 10.4.3                              ARP\User\X64\c79fd957-611e-56d1-813e-c5437743GÇª 10.4.3             
+ludusavi                                      mtkennerly.ludusavi                            0.31.0             winget
+Shawl                                         mtkennerly.shawl                               1.9.0              winget
+g-helper                                      seerge.g-helper                                0.247              winget
+Python 3.11.9 (64-bit)                        Python.Python.3.11                             3.11.9             winget
+Telegram Desktop                              Telegram.TelegramDesktop                       6.8.2              winget
+Microsoft Visual Studio Code (User)           XP9KHM4BK9FZ7Q                                 1.120.0            msstoGÇª
+MSYS2                                         ARP\User\X64\{ad307635-dd5d-4e80-b215-a773279GÇª 20251213           
+Python 3.12.10 (64-bit)                       Python.Python.3.12                             3.12.10            winget
+MSYS2                                         ARP\User\X64\{d76415e8-b540-447a-a576-2747645GÇª 20251213           
+MSYS2                                         ARP\User\X64\{f2d13ab6-6121-40bf-b2ba-cd59b0bGÇª 20251213           
+GigabyteControlCenter                         MSIX\65d483df-b37e-4fcf-94de-8b795233db63_25.GÇª 25.1.23.0          
+Todoist: Planner & Calendar (MSIX)            MSIX\88449BC3.TodoistPlannerCalendarMSIX_9.27GÇª 9.27.1.0           
+AMD Radeon Software                           MSIX\AdvancedMicroDevicesInc-RSXCM_22.10.0.0_GÇª 22.10.0.0          
+AV1 Video Extension                           MSIX\Microsoft.AV1VideoExtension_2.0.7.0_x64_GÇª 2.0.7.0            
++ö+¿+ù+æ+¬ +ò+Ö+ô+É+ò +¬+£ +P+º+ò+ô+ô AVC                      MSIX\Microsoft.AVCEncoderVideoExtension_1.1.2GÇª 1.1.23.0           
++¬+Ö+ñ+ò+¿+Ö+¥ +æ+¬+É+Ö+P+ò+¬ +Ö+Ö+¬+ò+P+Ö+¥ +¬+£ Windows            MSIX\Microsoft.ApplicationCompatibilityEnhancGÇª 1.2511.9.0         
+Microsoft Bing                                MSIX\Microsoft.BingSearch_1.1.43.0_x64__8wekyGÇª 1.1.43.0           
++P+¬+º+Ö+ƒ +É+ñ+£+Ö+º+ª+Ö+ö                                Microsoft.AppInstaller                         1.28.240.0         winget
+DirectX                                       Microsoft.DirectX                              9.29.1974.0        winget
+Microsoft Edge +ó+æ+ò+¿ Game Bar                  MSIX\Microsoft.Edge.GameAssist_1.0.4019.0_x64GÇª 1.0.4019.0         
+Xbox                                          MSIX\Microsoft.GamingApp_2604.1001.9.0_x64__8GÇª 2604.1001.9.0      
++ö+¿+ù+æ+¬ +¬+P+ò+á+ö +æ+¬+æ+á+Ö+¬ HEIF                       MSIX\Microsoft.HEIFImageExtension_1.2.30.0_x6GÇª 1.2.30.0           
++ö+¿+ù+æ+ò+¬ +ò+Ö+ô+É+ò HEVC +P+Ö+ª+¿+ƒ +ö+P+¢+¬+Ö+¿                MSIX\Microsoft.HEVCVideoExtension_2.4.43.0_x6GÇª 2.4.43.0           
+English (United Kingdom) Local Experience PaGÇª MSIX\Microsoft.LanguageExperiencePacken-GB_26GÇª 26100.124.233.0    
++ö+¿+ù+æ+¬ +ò+Ö+ô+É+ò MPEG-2                            MSIX\Microsoft.MPEG2VideoExtension_1.2.13.0_xGÇª 1.2.13.0           
+Microsoft Edge                                MSIX\Microsoft.MicrosoftEdge.Stable_144.0.371GÇª 144.0.3719.115     
++ñ+¬+º+Ö+¥ +á+ô+æ+º+Ö+¥ +¬+£ Microsoft                     MSIX\Microsoft.MicrosoftStickyNotes_6.1.4.0_xGÇª 6.1.4.0            
+Microsoft .Net Native Framework Package 2.2   MSIX\Microsoft.NET.Native.Framework.2.2_2.2.2GÇª 2.2.29512.0        
+Microsoft .Net Native Framework Package 2.2   MSIX\Microsoft.NET.Native.Framework.2.2_2.2.2GÇª 2.2.29512.0        
+Microsoft .Net Native Runtime Package 2.2     Microsoft.DotNet.Native.Runtime                2.2.28604.0        winget
+Microsoft .Net Native Runtime Package 2.2     Microsoft.DotNet.Native.Runtime                2.2.28604.0        winget
++ª+Ö+Ö+¿                                          MSIX\Microsoft.Paint_11.2601.441.0_x64__8wekyGÇª 11.2601.441.0      
+Raw Image Extension                           MSIX\Microsoft.RawImageExtension_2.5.7.0_x64_GÇª 2.5.7.0            
++¢+£+Ö +ö+ù+Ö+¬+ò+Ü                                    MSIX\Microsoft.ScreenSketch_11.2601.12.0_x64_GÇª 11.2601.12.0       
+GÇÅGÇÅ+É+æ+ÿ+ù+¬ Windows                               MSIX\Microsoft.SecHealthUI_1000.29554.1001.0_GÇª 1000.29554.1001.0  
++ö+É+ñ+£+Ö+º+ª+Ö+ö GÇÿ+ù+ò+ò+Ö+ò+¬ +ñ+¬+Ö+ù+öGÇÿ                      MSIX\Microsoft.StartExperiencesApp_1.248.3.0_GÇª 1.248.3.0          
+Store Experience Host                         MSIX\Microsoft.StorePurchaseApp_22601.1401.7.GÇª 22601.1401.7.0     
+Microsoft.UI.Xaml.2.8                         Microsoft.UI.Xaml.2.8                          8.2511.26001.0     winget
+Microsoft.UI.Xaml.2.8                         Microsoft.UI.Xaml.2.8                          8.2501.31001.0     winget
+Microsoft.UI.Xaml.2.8                         Microsoft.UI.Xaml.2.8                          8.2501.31001.0     winget
+Microsoft Visual C++ 2015 UWP Desktop RuntimGÇª Microsoft.VCLibs.Desktop.14                    14.0.33728.0       winget
+Microsoft Visual C++ 2015 UWP Desktop RuntimGÇª Microsoft.VCLibs.Desktop.14                    14.0.33728.0       winget
+Microsoft Visual C++ 2015 UWP Runtime Package Microsoft.VCLibs.14                            14.0.33519.0       winget
+Microsoft Visual C++ 2015 UWP Runtime Package Microsoft.VCLibs.14                            14.0.33519.0       winget
++ö+¿+ù+æ+ò+¬ +ò+Ö+ô+É+ò VP9                              MSIX\Microsoft.VP9VideoExtensions_1.2.12.0_x6GÇª 1.2.12.0           
+Visual Studio Code                            MSIX\Microsoft.VisualStudioCode_1.0.120.0_neuGÇª 1.0.120.0          
++ö+¿+ù+æ+ò+¬ +P+ô+Ö+Ö+¬ +É+Ö+á+ÿ+¿+á+ÿ                          MSIX\Microsoft.WebMediaExtensions_2.1.26.0_x6GÇª 2.1.26.0           
++ö+¿+ù+æ+ö +£+¬+P+ò+á+ò+¬ WebP                            MSIX\Microsoft.WebpImageExtension_1.2.14.0_x6GÇª 1.2.14.0           
+Widgets Platform Runtime                      MSIX\Microsoft.WidgetsPlatformRuntime_1.6.14.GÇª 1.6.14.0           
+Windows App Runtime DDLM 8000.731.1532.0-x6   MSIX\Microsoft.WinAppRuntime.DDLM.8000.731.15GÇª 8000.731.1532.0    
+Windows App Runtime DDLM 8000.731.1532.0-x8   MSIX\Microsoft.WinAppRuntime.DDLM.8000.731.15GÇª 8000.731.1532.0    
+Windows App Runtime DDLM 8000.770.947.0-x6    MSIX\Microsoft.WinAppRuntime.DDLM.8000.770.94GÇª 8000.770.947.0     
+Windows App Runtime DDLM 8000.770.947.0-x8    MSIX\Microsoft.WinAppRuntime.DDLM.8000.770.94GÇª 8000.770.947.0     
+Dev Home                                      MSIX\Microsoft.Windows.DevHome_0.1700.597.0_xGÇª 0.1700.597.0       
++¬+P+ò+á+ò+¬ +¬+£ Microsoft                           MSIX\Microsoft.Windows.Photos_2026.11020.2000GÇª 2026.11020.20001.0 
++ö+¬+ó+ò+ƒ +¬+£-Windows                              MSIX\Microsoft.WindowsAlarms_1.1.85.0_x64__8wGÇª 1.1.85.0           
+WindowsAppRuntime.1.5                         Microsoft.WindowsAppRuntime.1.5                > 1.5.8            winget
+WindowsAppRuntime.1.5                         Microsoft.WindowsAppRuntime.1.5                > 1.5.8            winget
+WindowsAppRuntime.1.6                         Microsoft.WindowsAppRuntime.1.6                1.6.9              winget
+WindowsAppRuntime.1.6                         Microsoft.WindowsAppRuntime.1.6                1.6.9              winget
+WindowsAppRuntime.1.7                         Microsoft.WindowsAppRuntime.1.7                1.7.9              winget
+WindowsAppRuntime.1.7                         Microsoft.WindowsAppRuntime.1.7                1.7.9              winget
+WindowsAppRuntime.1.8                         Microsoft.WindowsAppRuntime.1.8                8000.859.21.0      winget
+WindowsAppRuntime.1.8                         Microsoft.WindowsAppRuntime.1.8                8000.859.21.0      winget
+WindowsAppRuntime.1.8                         Microsoft.WindowsAppRuntime.1.8                8000.836.2153.0    winget
+WindowsAppRuntime.1.8                         Microsoft.WindowsAppRuntime.1.8                8000.806.2252.0    winget
+WindowsAppRuntime.1.8                         Microsoft.WindowsAppRuntime.1.8                8000.770.947.0     winget
++P+ù+¬+æ+ò+ƒ Windows                                MSIX\Microsoft.WindowsCalculator_11.2508.4.0_GÇª 11.2508.4.0        
++P+ª+£+P+ö +¬+£ Windows                              MSIX\Microsoft.WindowsCamera_2025.2510.2.0_x6GÇª 2025.2510.2.0      
++ñ+á+º+í +¿+¬+Ö+P+ò+¬ +¬+£ Windows                        MSIX\Microsoft.WindowsNotepad_11.2512.29.0_x6GÇª 11.2512.29.0       
++¿+¬+P+º+ò+£ Windows                                MSIX\Microsoft.WindowsSoundRecorder_1.1.86.0_GÇª 1.1.86.0           
+Microsoft Store                               MSIX\Microsoft.WindowsStore_22603.1401.9.0_x6GÇª 22603.1401.9.0     
++P+í+ò+ú Windows                                  Microsoft.WindowsTerminal                      1.24.11321.0       winget
+Windows Package Manager Source (winget-font)GÇª MSIX\Microsoft.Winget.Fonts.Source_2025.1016.GÇª 2025.1016.311.49   
+Windows Package Manager Source (winget) V2    MSIX\Microsoft.Winget.Source_2026.519.937.47_GÇª 2026.519.937.47    
+Xbox TCUI                                     MSIX\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wGÇª 1.24.10001.0       
+Xbox Identity Provider                        MSIX\Microsoft.XboxIdentityProvider_12.130.16GÇª 12.130.16001.0     
+Game Speech Window                            MSIX\Microsoft.XboxSpeechToTextOverlay_1.117.GÇª 1.117.15001.0      
++º+Ö+¬+ò+¿ +ÿ+£+ñ+ò+ƒ                                   MSIX\Microsoft.YourPhone_1.26032.102.0_x64__8GÇª 1.26032.102.0      
+Quick Assist                                  MSIX\MicrosoftCorporationII.QuickAssist_2.0.3GÇª 2.0.35.0           
+WinAppRuntime.Main.1.8                        MSIX\MicrosoftCorporationII.WinAppRuntime.MaiGÇª 8000.836.2153.0    
+WinAppRuntime.Singleton                       MSIX\MicrosoftCorporationII.WinAppRuntime.SinGÇª 8000.806.2252.0    
+Windows Subsystem for Linux                   Microsoft.WSL                                  2.7.3.0            winget
+Windows Web Experience Pack                   MSIX\MicrosoftWindows.Client.WebExperience_52GÇª 526.1202.40.0      
++P+É+¿+ù +ù+ò+ò+Ö+ò+¬ +æ+Ö+ƒ +P+¢+¬+Ö+¿+Ö+¥                       MSIX\MicrosoftWindows.CrossDevice_1.26032.83.GÇª 1.26032.83.0       
+Speech Pack - English (United States)         MSIX\MicrosoftWindows.Speech.en-US.1_1.0.28.0GÇª 1.0.28.0           
+Windows Sandbox                               MSIX\MicrosoftWindows.WindowsSandbox_0.5.3.0_GÇª 0.5.3.0            
+NVIDIA Control Panel                          9NF8H0H7WMLT                                   8.1.969.0          msstoGÇª
+Codex                                         9PLM9XGG6VKS                                   26.513.4821.0      msstoGÇª
+Python 3.12                                   MSIX\PythonSoftwareFoundation.Python.3.12_3.1GÇª 3.12.2800.0        
+Python 3.13                                   MSIX\PythonSoftwareFoundation.Python.3.13_3.1GÇª 3.13.3568.0        
+Realtek Audio Control                         MSIX\RealtekSemiconductorCorp.RealtekAudioConGÇª 1.53.385.0         

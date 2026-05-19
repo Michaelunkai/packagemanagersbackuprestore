@@ -1,0 +1,344 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2026-05-19T14:54:03.513-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "AutoHotkey.AutoHotkey"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "CrystalRich.LockHunter"
+				},
+				{
+					"PackageIdentifier" : "UB-Mannheim.TesseractOCR"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2005.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VSTOR"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "Kieirra.Murmure"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier" : "GitHub.cli"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
+				},
+				{
+					"PackageIdentifier" : "JRSoftware.InnoSetup"
+				},
+				{
+					"PackageIdentifier" : "GnuWin32.Make"
+				},
+				{
+					"PackageIdentifier" : "CreativeTechnology.OpenAL"
+				},
+				{
+					"PackageIdentifier" : "Phoner.PhonerLite"
+				},
+				{
+					"PackageIdentifier" : "Tweaking.WindowsRepair"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.10"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.10"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.10"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.Preview"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.UninstallTool"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.Preview"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.10"
+				},
+				{
+					"PackageIdentifier" : "YongcanYang.GameSaveManager"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.3_1"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.Preview"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.Preview"
+				},
+				{
+					"PackageIdentifier" : "Cloudflare.cloudflared"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysXLegacy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.26100"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsADK.WinPEAddon"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.5"
+				},
+				{
+					"PackageIdentifier" : "HydraLauncher.Hydra"
+				},
+				{
+					"PackageIdentifier" : "Anthropic.Claude"
+				},
+				{
+					"PackageIdentifier" : "BurntSushi.ripgrep.MSVC"
+				},
+				{
+					"PackageIdentifier" : "CGSecurity.TestDisk"
+				},
+				{
+					"PackageIdentifier" : "Game1024.OpenSpeedy"
+				},
+				{
+					"PackageIdentifier" : "GitHub.Copilot"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OSCDIMG"
+				},
+				{
+					"PackageIdentifier" : "Ookla.Speedtest.CLI"
+				},
+				{
+					"PackageIdentifier" : "OpenAI.Codex"
+				},
+				{
+					"PackageIdentifier" : "Rclone.Rclone"
+				},
+				{
+					"PackageIdentifier" : "SQLite.SQLite"
+				},
+				{
+					"PackageIdentifier" : "mtkennerly.ludusavi"
+				},
+				{
+					"PackageIdentifier" : "mtkennerly.shawl"
+				},
+				{
+					"PackageIdentifier" : "seerge.g-helper"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier" : "Telegram.TelegramDesktop"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.12"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DirectX"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WSL"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "XP9KHM4BK9FZ7Q"
+				},
+				{
+					"PackageIdentifier" : "9NF8H0H7WMLT"
+				},
+				{
+					"PackageIdentifier" : "9PLM9XGG6VKS"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.28.240"
+}

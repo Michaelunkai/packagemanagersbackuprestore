@@ -1,0 +1,13 @@
+{
+  "name": "npm-global",
+  "dependencies": {
+    "npm": {
+      "version": "11.14.1",
+      "overridden": false
+    },
+    "windows-system-mcp": {
+      "version": "1.0.0",
+      "overridden": false
+    }
+  }
+}

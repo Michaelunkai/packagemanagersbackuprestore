@@ -1,0 +1,125 @@
+C:\Users\micha\.bun\bin
+C:\WINDOWS\system32
+C:\WINDOWS
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Users\micha\.bun\bin
+C:\WINDOWS\System32\Wbem
+C:\Program Files\Git\usr\bin
+C:\WINDOWS\System32\Wbem
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+C:\WINDOWS\System32\OpenSSH\
+C:\Program Files\dotnet\
+C:\ProgramData\chocolatey\bin
+C:\Program Files\nodejs\
+C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+C:\ProgramData\mingw64\mingw64\bin
+C:\Program Files (x86)\dotnet-core-uninstall\
+C:\Program Files (x86)\cloudflared\
+C:\Windows\System32\Wbem
+C:\Windows\System32\WindowsPowerShell\v1.0\
+C:\Windows\System32\OpenSSH\
+C:\Program Files\PowerShell\7\
+C:\Program Files\Git\cmd
+C:\Program Files\GitHub CLI\
+C:\Program Files\Docker\Docker\resources\bin
+C:\Users\micha\AppData\Local\Microsoft\WindowsApps
+C:\Users\micha\.dotnet\tools
+C:\Users\micha\AppData\Local\Microsoft\WinGet\Links
+C:\Users\micha\AppData\Local\Programs\Microsoft VS Code\bin
+C:\Users\micha\.bun\bin
+F:\backup\Nodejs\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin
+F:\\backup\\Nodejs\\global
+C:\Users\micha\bin
+C:\Users\micha\AppData\Roaming\npm
+C:\Users\micha\.bun\bin

@@ -1,0 +1,4 @@
+
+# Auto-excluded by gitit because GitHub push protection rejects these secret-bearing files
+ssh-keys/id_ed25519
+env-user.json

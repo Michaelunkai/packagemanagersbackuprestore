@@ -1,0 +1,479 @@
+cfun ram2
+ram2
+1start  F:\study\Dev_Toolchain\programming\.NET\projects\c++\RamOptimizer\b\ram_optimizer.exe
+1start F:\study\Platforms\windows\autohotkey\mymainahk\current.ahk
+2start telegram
+siz; openclaw --version; upgrader;  openclaw --version
+cfun resmac
+resmac
+mkc a
+MYCLU
+backcod; wingup
+1start todoist telegram ascendara; allstart
+fixf
+rmackback
+codr vbs
+uni ollama
+finder ascendara
+C:\Users\micha\AppData\Local\Programs\ascendara\Ascendara.exe
+Set-Location -LiteralPath 'F:/study/projects/games/DownloadNAutoInstall/GameAutoDownInstall/.'; cd "F:\study\projects\games\DownloadNAutoInstall\GameAutoDownInstall"; npm install --legacy-peer-deps; npm start
+Set-Location -LiteralPath 'F:/study/projects/games/DownloadNAutoInstall/GameAutoDownInstall/.'; cd "F:\study\projects\games\DownloadNAutoInstall\GameAutoDownInstall"; npm install --legacy-peer-deps; npm start`
+n a.ps1
+./a
+n a.py
+& "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+cd openclaw
+getamd
+latst
+winget install Codex -s msstore
+1337x wukong
+ps7
+Get-Service InstallService,ClipSVC,LicenseManager -ErrorAction SilentlyContinue | Where-Object Status -ne 'Running' | Start-Service; Invoke-CimMethod -Namespace Root\cimv2\mdm\dmmap -ClassName MDM_EnterpriseModernAppManagement_AppManagement01 -MethodName UpdateScanMethod | Out-Null; Start-Sleep 20; Get-AppxPackage OpenAI.Codex | Select-Object Name,Version,PackageFullName
+Get-Service InstallService,ClipSVC,LicenseManager -ErrorAction SilentlyContinue | Where-Object Status -ne 'Running' | Start-Service; $mgr=Get-CimInstance -Namespace 'Root\cimv2\mdm\dmmap' -ClassName 'MDM_EnterpriseModernAppManagement_AppManagement01' -ErrorAction Stop; $r=Invoke-CimMethod -InputObject $mgr -MethodName UpdateScanMethod -ErrorAction Stop; Start-Sleep 20; Get-AppxPackage OpenAI.Codex | Select-Object Name,Version,PackageFullName,@{N='UpdateScanReturn';E={$r.ReturnValue}}
+cdfclaw
+ee; dush
+cd setup
+fullpath Restore-OpenClaw-ThisMachine.bat
+ccsizesl siz
+ccsizes; siz
+uni obs-studio
+uni blackbox
+FIXC
+upgrader; siz
+  robocopy "F:\study\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\openclaw" "F:\Downloads\openclaw" /MIR /MT:32 /R:1 /W:1 /NP /NFL /NDL
+F:\study\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\openclaw\setup\Restore-OpenClaw-ThisMachine.bat
+cfun nvid
+ccsizes; cleanc
+lines F:\study\Learning\01\01\Shells\powershell\profile-functions\ai-ml\nvidia\runtime-repair\NvidRuntimeRepair\Invoke-nvid.ps1
+fixvss2; macback
+dush; siz
+pwemod
+mydush
+siz; rmackback; dush; siz
+finder openwhisper
+start2 F:\backup\windowsapps\installed\OpenWhisper\OpenWhispr\OpenWhispr.exe
+2start F:\backup\windowsapps\installed\OpenWhisper\OpenWhispr\OpenWhispr.exe
+2start 'F:\backup\windowsapps\installed\OpenWhisper\OpenWhispr\OpenWhispr.exe'
+cfun allstart
+FIXVSS2
+regate
+remenu profile
+2start openwhisper
+F:\study\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\openclaw\ClawdBot\ClawdbotTray.vbs
+1start murmure todoist; allstart
+wings murmure
+wingi  Kieirra.Murmure
+reclaw
+menu C:\users\micha\Documents\WindowsPowerShell
+menu profile list
+menu list
+REMENU profile 13
+REMENU profile 2
+REMENU profile:2
+C:\users\micha\.openclaw\ClawdBot\ClawdbotTray.vbs
+REMENU profile
+REMENU profile:15
+$cfg='{"control":[{"VTOY_DEFAULT_MENU_MODE":"0"},{"VTOY_DEFAULT_SEARCH_ROOT":"/isos"},{"VTOY_MENU_TIMEOUT":"3"},{"VTOY_DEFAULT_IMAGE":"/isos/WinPE_AutoRepair.iso"},{"VTOY_SECONDARY_BOOT_MENU":"1"},{"VTOY_SECONDARY_TIMEOUT":"3"}]}'; if (!(Test-Path 'E:\ventoy')) { New-Item -ItemType Directory -Path 'E:\ventoy' | Out-Null }; [System.IO.File]::WriteAllText('E:\ventoy\ventoy.json',$cfg,[System.Text.Encoding]::ASCII); bcdedit /set '{fwbootmgr}' bootsequence '{ca3b1c02-399e-11f1-a7b4-f5aa42282247}'; shutdown /r /t 0
+uniclass
+classuni; ex
+cd F:\study\projects\WindowsFixer
+addfunc myfix {     $cfg='{"control":[{"VTOY_DEFAULT_MENU_MODE":"0"},{"VTOY_DEFAULT_SEARCH_ROOT":"/isos"},{"VTOY_MENU_TIMEOUT":"3"},{"VTOY_DEFAULT_IMAGE":"E:\isos\Michrepair.iso"},{"VTOY_SECONDARY_BOOT_MENU":"1"},{"VTOY_SECONDARY_TIMEOUT":"3"}]}'; if (!(Test-Path 'E:\ventoy')) { New-Item -ItemType Directory -Path 'E:\ventoy' | Out-Null }; [System.IO.File]::WriteAllText('E:\ventoy\ventoy.json',$cfg,[System.Text.Encoding]::ASCII); bcdedit /set '{fwbootmgr}' bootsequence '{ca3b1c02-399e-11f1-a7b4-f5aa42282247}'; shutdown /r /t 0 }
+cfun myfix
+GITHUB
+ws github
+menu F:/study/projects/WindowsFixer/Win11RepairISO
+gdbooster; gccleaner; nocccc
+openclaw update
+fixfixfix; ccsizes; cleanc; fixvss2
+git pyll
+git pull
+1start todoist telegram; allstart
+CDCLAW
+OPenclaw doctor --fix
+dkill; dush
+MENU F:\study\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\openclaw
+dkill; ex
+LS
+REGate
+menu codex
+cfun listcod
+cd C:\Users\micha\Documents
+menu  C:\Users\micha\Documents
+BACKCOD
+1start todoist
+2start todoist telegram murmure; 1start todoist telegram murmure; allstart
+2start todoist telegram ascendara; 1start todoist telegram ascendara; allstart
+gitit C:\users\micha\Documents\WindowsPowerShell
+cfun uni 
+dkill; gitit F:\study\Devops\backup\Projects\DotNET\uninstaller; menu F:\study\Devops\backup\Projects\DotNET\uninstaller; dish
+cd  F:\study\Devops\backup\Projects\DotNET\uninstaller
+codex
+codex app
+codex app /new
+FINDER lasso
+linest
+NOCCCC
+fixvss
+ram
+cfun
+1start wand
+cfun ram
+cfun nocccc
+ccfun nocccc
+siz\
+CURRENT
+wingup
+UNI ollama
+ccsizes; cleanc; siz
+fixc
+ccsizes; cleanc; c ; ls
+rmboot
+uni slack; siz
+2start todoist ascendara telegram; 1start "F:\backup\windowsapps\installed\Process Lasso\ProcessLasso.exe"; allstart
+cxc
+ghistotry
+speed
+siz; uni openwhisper; siz
+cfun uni
+ccsizes; cleanc; rmvol; fixvss2; siz
+cleanf
+JOBtask
+dkill; menu F:\backup\windowsapps
+ menu F:\backup\windowsapps
+ws dockhub
+cd Windows
+cd Applications
+dsh2
+cd  github-repos
+cd  Michaelunkai
+cd  archive
+cd  2026-04-08
+cd F:\study\Windows\Applications\github-repos
+cd F:\study\Windows\Applications\github-repos\Michaelunkai
+cd ../../..
+cd applications
+menu github-repos
+ollama ps
+ws 'rmf  github-repos'; dush
+mkc claw
+mkc claw2
+vv
+omx setup
+cfun menu2
+cfun menu4
+menu F:\study\repos
+ws 'rmf repos'; cc; dush
+CD ../Backup
+cd inSTall
+fullpath installed
+menu3 F:\Backup\windowsapps\installed; menu F:\Backup\windowsapps\installed
+omx doctor
+omx hud
+cd  claw2
+omx team logs executor
+down
+cd ../Backup
+cd windowsapps
+cd installeed
+cd installed
+menu Ventoy
+menu3 F:\Backup\windowsapps; menu F:\Backup\windowsapps\installed
+cd  AI_ML
+dsh3
+cd LocalAI
+cd ollama
+cd 16vram
+cd a
+OLLAma ps
+skill ollama
+time {menu F:\study}
+menu F:\backup\windowsapps\profile
+codex mcp list
+ menu F:\Backup\windowsapps\installed
+menu F:\backup\gamesaves
+addfunc dockhub {    gcl https://hub.docker.com/repositories/michadockermisha }
+KIM3
+CD  F:\backup\gamesaves
+WS 'rmf  F:\backup\gamesaves\*'
+ALLstart
+copd
+F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\codu.ps1
+CLAU
+F:\study\AI_ML\LocalAI\ollama\16vram\A\scripts\Invoke-Ola.ps1
+cd  F:\study\AI_ML\LocalAI\ollama\16vram\A
+clku
+joBtask
+py -m pip install -U open-interpreter; $env:OI_MODEL='ollama/qwen3.5:latest'; interpreter
+List every drive, recursively list folders only, save results to C:\temp\folders.txt, and show progress.
+wings interpreter
+pip install git+https://github.com/OpenInterpreter/open-interpreter.git
+pipi pkg_resources
+python -m pip install setuptools
+pip install setuptools
+pip install pkg_resources
+# Source - https://stackoverflow.com/a/19514783
+# Posted by Ali Akdurak, modified by community. See post 'Timeline' for change history
+# Retrieved 2026-04-21, License - CC BY-SA 3.0
+pip install --upgrade setuptools
+pip install --upgrade distribute 
+interpreter
+sfol interpreter
+cd F:\study\Learning\01\01\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\cli\interpreterAI
+pip install --upgrade setuptools --user
+psv
+cfun psv
+$ErrorActionPreference='Stop';$p="$env:USERPROFILE\oi-ollama";if(Test-Path $p){Remove-Item $p -Recurse -Force};py -3.12 -m venv $p;& "$p\Scripts\python.exe" -m pip install --upgrade pip wheel "setuptools==81.0.0";& "$p\Scripts\python.exe" -m pip uninstall -y open-interpreter interpreter litellm requests urllib3 charset_normalizer chardet *> $null;& "$p\Scripts\python.exe" -m pip install --no-cache-dir open-interpreter; $env:PYTHONNOUSERSITE='1'; if(Get-Command ollama -ErrorAction SilentlyContinue){try{ollama list *> $null}catch{Start-Process ollama -ArgumentList 'serve' -WindowStyle Hidden;Start-Sleep 5}}; & "$p\Scripts\interpreter.exe" --local
+$ErrorActionPreference='Stop';$py=((Get-Command python -ErrorAction SilentlyContinue|Select-Object -First 1 -ExpandProperty Source));if(-not $py){$py=((Get-Command py -ErrorAction SilentlyContinue|Select-Object -First 1 -ExpandProperty Source))};if(-not $py){throw 'Python not found in PATH'};$p=Join-Path $env:USERPROFILE 'oi-ollama';if(Test-Path $p){Remove-Item $p -Recurse -Force};& $py -m venv $p;& "$p\Scripts\python.exe" -m pip install --upgrade pip wheel "setuptools==81.0.0";$env:PYTHONNOUSERSITE='1';& "$p\Scripts\python.exe" -m pip uninstall -y open-interpreter interpreter litellm requests urllib3 charset_normalizer chardet > $null 2>&1;& "$p\Scripts\python.exe" -m pip install --no-cache-dir open-interpreter "requests==2.32.3" "urllib3==2.2.3" "charset-normalizer==3.4.1";if(-not (Get-Command ollama -ErrorAction SilentlyContinue)){throw 'Ollama not found in PATH'};try{ollama list > $null 2>&1}catch{Start-Process ollama -ArgumentList 'serve' -WindowStyle Hidden;Start-Sleep -Seconds 5};$env:OI_MODEL='ollama/qwen3.5:latest';& "$p\Scripts\interpreter.exe"
+RAM2
+LINESPr
+$ErrorActionPreference='Stop'; $ProgressPreference='SilentlyContinue';$utf8=New- Object System.Text.UTF8Encoding $false; [Console]::InputEncoding=$utf8; [Console]::OutputEncoding=$utf8; $OutputEncoding=$utf8;chcp 65001 | Out-Null; $env:PYTHONUTF8='1';$env:PYTHONIOENCODING='utf- 8';$env:PYTHONNOUSERSITE='1';$py=((Get-Command python -ErrorAction SilentlyContinue|Select- Object -First 1 -ExpandProperty Source));if(-not $py){$py=((Get-Command py -ErrorAction SilentlyContinue|Select-Object -First 1 -ExpandProperty Source))};if(-not $py){throw 'Python not found in PATH'};$p=Join-Path $env:USERPROFILE 'oi-ollama';if(Test-Path $p) {Remove-Item $p -Recurse -Force};& $py -m venv $p;& "$p\Scripts\python.exe" -m pip install --upgrade pip wheel "setuptools==69.5.1";& "$p\Scripts\python.exe" -m pip install --no- cache-dir open-interpreter "requests==2.32.3" "urllib3==2.2.3" "charset- normalizer==3.4.1";if(-not (Get-Command ollama -ErrorAction SilentlyContinue)){throw 'Ollama not found in PATH'};cmd /c "ollama list >nul 2>nul";if($LASTEXITCODE -ne 0){Start-Process ollama -ArgumentList 'serve' -WindowStyle Hidden;Start-Sleep -Seconds 5};& "$p\Scripts\interpreter.exe" --plain -m 'ollama/ qwen3.5:latest'
+$ErrorActionPreference='Stop'; $ProgressPreference='SilentlyContinue';$utf8=New- Object System.Text.UTF8Encoding $false; [Console]::InputEncoding=$utf8; [Console]::OutputEncoding=$utf8; $OutputEncoding=$utf8;chcp 65001 | Out-Null; $env:PYTHONUTF8='1';$env:PYTHONIOENCODING='utf- 8';$env:PYTHONNOUSERSITE='1';$py=((Get-Command python -ErrorAction SilentlyContinue|Select- Object -First 1 -ExpandProperty Source));if(-not $py){$py=((Get-Command py -ErrorAction SilentlyContinue|Select-Object -First 1 -ExpandProperty Source))};if(-not $py){throw 'Python not found in PATH'};$p=Join-Path $env:USERPROFILE 'oi-ollama';if(Test-Path $p) {Remove-Item $p -Recurse -Force};& $py -m venv $p;& "$p\Scripts\python.exe" -m pip install --upgrade pip wheel "setuptools==69.5.1";& "$p\Scripts\python.exe" -m pip install --no- cache-dir open-interpreter "requests==2.32.3" "urllib3==2.2.3" "charset- normalizer==3.4.1";if(-not (Get-Command ollama -ErrorAction SilentlyContinue)){throw 'Ollama not found in PATH'};cmd /c "ollama list >nul 2>nul";if($LASTEXITCODE -ne 0){Start-Process ollama -ArgumentList 'serve' -WindowStyle Hidden;Start-Sleep -Seconds 5};& "$p\Scripts\interpreter.exe" --plain -m 'ollama/ qwen3.5:latest'$ErrorActionPreference='Stop'; $ProgressPreference='SilentlyContinue';$utf8=New- Object System.Text.UTF8Encoding $false; [Console]::InputEncoding=$utf8; [Console]::OutputEncoding=$utf8; $OutputEncoding=$utf8;chcp 65001 | Out-Null; $env:PYTHONUTF8='1';$env:PYTHONIOENCODING='utf- 8';$env:PYTHONNOUSERSITE='1';$py=((Get-Command python -ErrorAction SilentlyContinue|Select- Object -First 1 -ExpandProperty Source));if(-not $py){$py=((Get-Command py -ErrorAction SilentlyContinue|Select-Object -First 1 -ExpandProperty Source))};if(-not $py){throw 'Python not found in PATH'};$p=Join-Path $env:USERPROFILE 'oi-ollama';if(Test-Path $p) {Remove-Item $p -Recurse -Force};& $py -m venv $p;& "$p\Scripts\python.exe" -m pip install --upgrade pip wheel "setuptools==69.5.1";& "$p\Scripts\python.exe" -m pip install --no- cache-dir open-interpreter "requests==2.32.3" "urllib3==2.2.3" "charset- normalizer==3.4.1";if(-not (Get-Command ollama -ErrorAction SilentlyContinue)){throw 'Ollama not found in PATH'};cmd /c "ollama list >nul 2>nul";if($LASTEXITCODE -ne 0){Start-Process ollama -ArgumentList 'serve' -WindowStyle Hidden;Start-Sleep -Seconds 5};& "$p\Scripts\interpreter.exe" --plain -m 'ollama/ qwen3.5:latest'
+dockhub
+RMbackcod; listcod
+CFUN unem
+unem ContainsVisibilityScout
+michadockermisha/study-repos
+michadockermisha/study-windows-applications-github-repos
+about 2 hours ago
+image
+Public
+Inactive
+1â€“2 of 2
+unem michadockermisha/study-windows-applications-github-repos
+F: \study\Learning\01\01\AI_ML\AI_and_Machine_Lear ning\Artificial_Intelligence\cli\interpreterAI\ start-oi-ollama.ps1 -Rebuild
+F:\study\Learning\01\01\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\cli\interpreterAI\start-oi-ollama.ps1 -Rebuild
+unem-map study-windows-applications-github-repos
+unem study-windows-applications-github-repos
+CD C:\users\micha\.codex
+ menus  F:\study\repos\shells\powershell\scripts\android\adb\AADBAndroidAdbBridge
+menu  F:\study\repos\shells\powershell\scripts\android\adb\AADBAndroidAdbBridge ;  menu  F:\study\repos\shells\powershell\scripts\android\adb ; menu  F:\study\repos\shells\powershell\scripts\android;  menu  F:\study\repos\shells\powershell;  menu  F:\study\repos\shells; menu  F:\study\repos
+regATE
+cd project
+cd projects
+ks
+cd fullstack
+cd game-library-manager-web
+menu F:\study\repos\fullstack\game-library-manager-web
+doCkhub
+bin
+allstart
+CFUN regate
+python F:\study\projects\Web_Development\Fullstack\android\web-project-to-apk\builder\a.py  F:\study\repos\fullstack\todoist-enhanced\c\todoist-enhanced-private-android-output
+python F:\study\projects\Web_Development\Fullstack\android\web-project-to-apk\builder\a.py  "F:\study\repos\fullstack\todoist-enhanced\c\todoist-enhanced-private-android-output"
+dish
+python F:\study\projects\Web_Development\Fullstack\android\web-project-to-apk\builder\a.py  "F:\study\repos\fullstack\todoist-enhanced\c\todoist-enhanced-private"
+lines F:\BACKUP\A.PS1 
+cd  F:\study\repos\fullstack\todoist-enhanced\c\todoist-enhanced-private
+cd //
+ee
+VOD
+hgistory
+backcod; listcod
+ws rmd
+n a.txt
+git clone https://github.com/Michaelunkai/game-library-manager-web.git
+ghistory
+AADB
+aadb pull dcim; menu F:\Downloads\dcim
+backdcim {     aadb pull dcim; menu F:\Downloads\dcim }
+addfunc backdcim {     aadb pull dcim; menu F:\Downloads\dcim }
+cfun aadb
+cat 'C:\Users\micha\bin\aadb.ps1'
+cat C:\Users\micha\AppData\Roaming\CodexAdb\Invoke-AndroidAdbBridge.ps1
+lines C:\Users\micha\AppData\Roaming\CodexAdb\Invoke-AndroidAdbBridge.ps1
+cd -
+sfol adb
+cd  F:\study\Shells\powershell\scripts\android\adb
+mkc aadb
+aadb
+rmbackcod; listcod; ex
+cd F:\study\projects\Web_Development\Fullstack\terminal-experiments\cli\browsers\carbonly\runtime\project
+cd F:\study\projects\Web_Development\Fullstack\terminal-experiments\
+cd F:\study\projects\
+cd tui
+mkc Carbonly
+codr goal
+cd Michaelunkai
+rm Michaelunkai
+CFUN UNI
+upgrader
+COPD
+nocccc; 
+cfun backdock
+cd F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\backup
+cdex
+update
+FIXFIXFIX
+UNI onedrive onedrivesetup
+lines F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\backup\backup-codex.ps1
+F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\backup\restore-codex.ps1 
+lines F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\backup\restore-codex.ps1 
+lines F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\backup\restore-codex.ps1
+Backcod
+LISTCOD
+RESCOD
+cfun backcod
+DKILL; gitit F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence; menu F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence
+gccleaner
+classuni
+F:\study\Learning\01\01\AI_ML\AI_and_Machine_Learning\Artificial_Intelligence\cli\interpreterAI\start-oi-ollama.ps1
+unem study-repos
+CD STU
+ced ..
+cd C:\users\micha\.openclaw
+mkc commands
+pwd
+openclaw --version
+openclaw dashboard
+code
+cd repos
+cfun unem2
+ollAma ps
+linESPr
+history
+cfun clu
+cd F:\study\repos\ai-ml\AI_and_Machine_Learning\Artificial_Intelligence\cli\codex\
+listcod
+SKILL SLACK
+cdcd workspace-moltbot
+cd workspace-moltbot
+kim3
+cfun r
+menu F:\study\repos\fullstack\todoist-enhanced
+REGATE
+cdclaw
+backcod; ex
+nvid
+CLU
+OLA
+aadb 
+aadb pull
+fixfixfix
+allstart2
+Set-Location $env:USERPROFILE; powershell.exe -NoProfile -ExecutionPolicy Bypass -File "F:\study\projects\FixDrivesProg\Invoke-FDriveRepair.ps1" -DriveLetter F
+backcod
+ex
+profile2
+rescod
+c
+nocccc
+fixvss2
+fixf; reg add "HKCU\Software\ChkdskLoop" /v Count /t REG_DWORD /d 2 /f & schtasks /create /tn "ChkdskLoop" /tr "powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "if((Get-ItemProperty HKCU:\Software\ChkdskLoop).Count -gt 0){reg add 'HKCU\Software\ChkdskLoop' /v Count /t REG_DWORD /d ([int](Get-ItemProperty HKCU:\Software\ChkdskLoop).Count - 1) /f; schtasks /run /tn ChkdskLoop; cmd /c 'echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b'; shutdown /r /t 15}else{schtasks /delete /tn ChkdskLoop /f; reg delete 'HKCU\Software\ChkdskLoop' /f}"" /sc onlogon /rl highest /f & cmd /c "echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b" & shutdown /r /t 15
+fixf; reg add "HKCU\Software\ChkdskLoop" /v Count /t REG_DWORD /d 2 /f & schtasks /create /tn "ChkdskLoop" /tr "powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "if((Get-ItemProperty HKCU:\Software\ChkdskLoop).Count -gt 0){reg add 'HKCU\Software\ChkdskLoop' /v Count /t REG_DWORD /d ([int](Get-ItemProperty HKCU:\Software\ChkdskLoop).Count - 1) /f; schtasks /run /tn ChkdskLoop; cmd /c 'echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b'; shutdown /r /t 15}else{schtasks /delete /tn ChkdskLoop /f; reg delete 'HKCU\Software\ChkdskLoop' /f}"" /sc onlogon /rl highest /f & cmd /c "echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b"; shutdown /r /t 15
+fixf; reg add "HKCU\Software\ChkdskLoop" /v Count /t REG_DWORD /d 2 /f; schtasks /create /tn "ChkdskLoop" /tr "powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "if((Get-ItemProperty HKCU:\Software\ChkdskLoop).Count -gt 0){reg add 'HKCU\Software\ChkdskLoop' /v Count /t REG_DWORD /d ([int](Get-ItemProperty HKCU:\Software\ChkdskLoop).Count - 1) /f; schtasks /run /tn ChkdskLoop; cmd /c 'echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b'; shutdown /r /t 15}else{schtasks /delete /tn ChkdskLoop /f; reg delete 'HKCU\Software\ChkdskLoop' /f}"" /sc onlogon /rl highest /f & cmd /c "echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b"; shutdown /r /t 15
+fixf; reg add "HKCU\Software\ChkdskLoop" /v Count /t REG_DWORD /d 2 /f; schtasks /create /tn "ChkdskLoop" /tr "powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "if((Get-ItemProperty HKCU:\Software\ChkdskLoop).Count -gt 0){reg add 'HKCU\Software\ChkdskLoop' /v Count /t REG_DWORD /d ([int](Get-ItemProperty HKCU:\Software\ChkdskLoop).Count - 1) /f; schtasks /run /tn ChkdskLoop; cmd /c 'echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b'; shutdown /r /t 15}else{schtasks /delete /tn ChkdskLoop /f; reg delete 'HKCU\Software\ChkdskLoop' /f}"" /sc onlogon /rl highest /f; cmd /c "echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b"; shutdown /r /t 15
+ reg add "HKCU\Software\ChkdskLoop" /v Count /t REG_DWORD /d 2 /f; schtasks /create /tn "ChkdskLoop" /tr "powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "if((Get-ItemProperty HKCU:\Software\ChkdskLoop).Count -gt 0){reg add 'HKCU\Software\ChkdskLoop' /v Count /t REG_DWORD /d ([int](Get-ItemProperty HKCU:\Software\ChkdskLoop).Count - 1) /f; schtasks /run /tn ChkdskLoop; cmd /c 'echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b'; shutdown /r /t 15}else{schtasks /delete /tn ChkdskLoop /f; reg delete 'HKCU\Software\ChkdskLoop' /f}"" /sc onlogon /rl highest /f; cmd /c "echo y | C:\WINDOWS\system32\chkdsk.exe C: /f /r /x /b"; shutdown /r /t 15
+openclaw doctor --fix
+ova
+jobtask
+rm  CLAUDE.md
+rm version_IObitDel.dll
+ws 'rm version_IObitDel.dll'
+ccfun menu3
+ccfun menu2
+DUSH
+CODR
+LINespr
+DOCkhub
+DKILL
+stu
+menu3 F:\study
+STU
+cd ai
+cd ..
+codex -c features.codex_hooks=true
+ALLStart
+codc
+claur menu
+codr menu
+codr
+cfun menu3
+cfun menu1
+cfun menu
+ccfun menu
+latest
+$ErrorActionPreference='SilentlyContinue'; if(Get-Command npm -EA 0){npm i -g npm@latest; npm update -g; $ng=((npm -g ls --depth=0 --json|Out-String|ConvertFrom-Json).dependencies.PSObject.Properties.Name|?{$_ -and $_ -notin @('npm','corepack')}); foreach($p in $ng){npm i -g "$p@latest"}}; if(Get-Command bun -EA 0){$bg=Join-Path $HOME '.bun\install\global\node_modules'; if(Test-Path $bg){Get-ChildItem $bg -Directory -Force|%{bun add -g "$($_.Name)@latest"}}; if(Get-Command scoop -EA 0){$sl=(scoop list 2>$null|Out-String); if($sl -match '(^|\r?\n)bun\s'){scoop update bun}else{bun upgrade --stable}}else{bun upgrade --stable}}; $roots=(Get-CimInstance Win32_LogicalDisk -Filter "DriveType=3"|%{$_.DeviceID+'\\'}); $pkgs=foreach($r in $roots){Get-ChildItem $r -Recurse -File -Filter package.json -Force -EA SilentlyContinue|?{$_.FullName -notmatch '\\(node_modules|\.git|dist|build|coverage|\.next|\.nuxt|\.svelte-kit|out|vendor|\.yarn|\.pnpm-store|\.bun)\\'}}; foreach($f in $pkgs){$dir=$f.DirectoryName; Push-Location $dir; try{$raw=Get-Content $f.FullName -Raw -EA Stop; $j=$raw|ConvertFrom-Json -EA Stop; $isBun=((Test-Path (Join-Path $dir 'bun.lock')) -or (Test-Path (Join-Path $dir 'bun.lockb')) -or ($j.packageManager -match '^bun@')); if($isBun -and (Get-Command bun -EA 0)){bun update --latest --force}else{$d=@(); $dd=@(); $od=@(); if($j.dependencies){$d=$j.dependencies.PSObject.Properties.Name}; if($j.devDependencies){$dd=$j.devDependencies.PSObject.Properties.Name}; if($j.optionalDependencies){$od=$j.optionalDependencies.PSObject.Properties.Name}; if($d){npm i ($d|%{"$_@latest"}) --save-exact}; if($dd){npm i ($dd|%{"$_@latest"}) -D --save-exact}; if($od){npm i ($od|%{"$_@latest"}) -O --save-exact}; if(Test-Path package-lock.json){npm update --save}}}finally{Pop-Location}}; if(Get-Command npx -EA 0){npm cache npx rm --force 2>$null}; if(Get-Command bun -EA 0){bun pm cache rm 2>$null}
+LINES F:\study\AI_ML\LocalAI\ollama\16vram\A\scripts\Invoke-Ola.ps1
+sahk
+lines current.ahk
+menu F:\study\Platforms\windows\autohotkey\mymainahk
+menu5 F:\study\Platforms\windows\autohotkey\mymainahk
+menu  F:\study\Platforms\windows\autohotkey\mymainahk
+cfun menus
+MENU2 F:\study\Platforms\windows\autohotkey\mymainahk
+menus F:\study\Platforms\windows\autohotkey\mymainahk
+cfun backitup
+C
+menu3 C:\users\micha
+cd c:\users\micha\.codex
+MENUS F:\study\Platforms\windows\autohotkey\mymainahk
+COD
+menu3 C:\users\micha\.codex
+cd .codex
+menu C:\users\micha\.codex
+menu C:\users\micha\.claude
+cd c:\users\micha\.openclaw
+cd c:\users\micha\.claude
+ccc
+cfun regate
+cfun rg
+rmfunc rg
+cd c:\users\micha
+cfun rmrust
+cfun grust
+siz; rmrust; siz
+menu .rustup
+uni .rustup rustup rust
+ccsizes
+ls
+cd F:\study\AI_ML\LocalAI\ollama\16vram\A
+dkill
+rmvol; fixvss2
+brc
+CFUN getasc
+WINGI XPDP1CDRK42FHJ
+WINGUP
+WINGS Systemcare
+lines F:\Downloads\pm-upgrade-run.ps1
+cfn ola
+rmbackcod; listcod
+SIZ
+$ErrorActionPreference='Stop'; function Invoke-NpmRetry([string[]]$Args,[int]$Retries=3){ for($i=1;$i -le $Retries;$i++){ & npm.cmd @Args; if($LASTEXITCODE -eq 0){ return $true }; if($i -lt $Retries){ Start-Sleep -Seconds 2 } }; return $false }; if(-not (Invoke-NpmRetry @('i','-g','npm@latest'))){ throw 'npm self-update failed' }; $globals=((npm.cmd ls -g --depth=0 --json | Out-String | ConvertFrom-Json).dependencies.PSObject.Properties.Name | Where-Object { $_ -and $_ -ne 'npm' }); foreach($p in $globals){ [void](Invoke-NpmRetry @('i','-g',"$p@latest")) }; $npxCache=Join-Path $env:LOCALAPPDATA 'npm-cache\_npx'; if(Test-Path $npxCache){ Remove-Item -LiteralPath $npxCache -Recurse -Force -ErrorAction SilentlyContinue }; Write-Host 'Done: npm updated, npx updated with npm, npm-global tools updated, npx cache cleared.'
+$ErrorActionPreference='Stop'; function Invoke-Step([scriptblock]$Action,[int]$Retries=3,[int]$SleepSeconds=2){ for($i=1;$i -le $Retries;$i++){ try { & $Action; if($LASTEXITCODE -eq 0 -or $null -eq $LASTEXITCODE){ return $true } } catch {}; if($i -lt $Retries){ Start-Sleep -Seconds $SleepSeconds } }; return $false }; if(Get-Command npm.cmd -ErrorAction SilentlyContinue){ if(-not (Invoke-Step { & npm.cmd i -g npm@latest })){ throw 'npm self-update failed' }; $json=& npm.cmd ls -g --depth=0 --json | Out-String; $obj=$null; try { $obj=$json | ConvertFrom-Json } catch {}; $globals=@(); if($obj -and $obj.dependencies){ $globals=@($obj.dependencies.PSObject.Properties.Name | Where-Object { $_ -and $_ -ne 'npm' }) }; foreach($p in $globals){ [void](Invoke-Step { & npm.cmd i -g "$p@latest" }) }; $npxCache=Join-Path $env:LOCALAPPDATA 'npm-cache\_npx'; if(Test-Path $npxCache){ Remove-Item -LiteralPath $npxCache -Recurse -Force -ErrorAction SilentlyContinue } }; if(Get-Command winget.exe -ErrorAction SilentlyContinue){ $wg=& winget.exe list --id OpenAI.Codex --exact --accept-source-agreements 2>$null | Out-String; if($wg -match 'OpenAI\.Codex'){ [void](Invoke-Step { & winget.exe upgrade --id OpenAI.Codex --exact --silent --accept-source-agreements --accept-package-agreements }) } }; Write-Host 'Done: npm and npx updated, npm-global tools updated, Codex CLI updated if installed via WinGet, npx cache cleared.'
+LINESPR
+cfun ola
+lines F:\study\AI_ML\LocalAI\ollama\16vram\A\scripts\Invoke-Ola.ps1
+ F:\study\AI_ML\LocalAI\ollama\16vram\A\scripts\Invoke-Ola.ps1
+cfun macres
+CFUN CCSIZES
+CAT F:\study\Shells\powershell\scripts\misc\ccsizes\ccsizes-cleanup-patterns-v2.ps1
+ola
+& 'C:\Program Files (x86)\IObit\Advanced SystemCare\ASC.exe'
+finder asc
+getasc
+clu
+$ErrorActionPreference='Stop'; function Invoke-Step([scriptblock]$Action,[int]$Retries=3,[int]$SleepSeconds=2){ for($i=1;$i -le $Retries;$i++){ try{ & $Action; if($LASTEXITCODE -eq 0 -or $null -eq $LASTEXITCODE){ return $true } } catch{}; if($i -lt $Retries){ Start-Sleep -Seconds $SleepSeconds } }; return $false }; function Get-NpmOutdatedGlobals { $raw = (& npm.cmd outdated -g --depth=0 --json 2>$null | Out-String).Trim(); if([string]::IsNullOrWhiteSpace($raw) -or $raw -eq '{}'){ return @() }; try { $obj = $raw | ConvertFrom-Json } catch { return @() }; if(-not $obj){ return @() }; return @($obj.PSObject.Properties.Name) }; $failed=@(); if(-not (Get-Command npm.cmd -ErrorAction SilentlyContinue)){ throw 'npm.cmd not found' }; if(-not (Invoke-Step { & npm.cmd i -g npm@latest })) { throw 'npm self-update failed' }; if(-not (Invoke-Step { & npm.cmd i -g @openai/codex@latest })) { throw 'Codex CLI update failed' }; if(Get-Command ctx7.cmd -ErrorAction SilentlyContinue){ if(-not (Invoke-Step { & npm.cmd i -g ctx7@latest })) { $failed += 'ctx7' } }; $globals = @(Get-NpmOutdatedGlobals | Where-Object { $_ -and $_ -notin @('npm','@openai/codex','ctx7') }); foreach($p in $globals){ if(-not (Invoke-Step { & npm.cmd i -g "$p@latest" })){ $failed += $p } }; & npm.cmd cache npx rm --force 1>$null 2>$null; $codexVersion = (& codex.cmd --version 2>$null | Out-String).Trim(); $npmVersion = (& npm.cmd --version 2>$null | Out-String).Trim(); $npxVersion = (& npx.cmd --version 2>$null | Out-String).Trim(); if($failed.Count -gt 0){ throw ('Failed npm globals: ' + ($failed -join ', ')) }; Write-Host "Done: npm=$npmVersion npx=$npxVersion codex=$codexVersion globals=ok npx-cache=cleared"
+EX
+$ErrorActionPreference='Stop'; function Invoke-Step([scriptblock]$Action,[int]$Retries=3,[int]$SleepSeconds=2){ for($i=1;$i -le $Retries;$i++){ try{ & $Action; if($LASTEXITCODE -eq 0 -or $null -eq $LASTEXITCODE){ return $true } } catch{}; if($i -lt $Retries){ Start-Sleep -Seconds $SleepSeconds } }; return $false }; function Get-NpmOutdatedGlobals { $raw = (& npm.cmd outdated -g --depth=0 --json 2>$null | Out-String).Trim(); if([string]::IsNullOrWhiteSpace($raw) -or $raw -eq '{}'){ return @() }; try { $obj = $raw | ConvertFrom-Json } catch { return @() }; if(-not $obj){ return @() }; return @($obj.PSObject.Properties.Name) }; $failed=@(); if(-not (Get-Command npm.cmd -ErrorAction SilentlyContinue)){ throw 'npm.cmd not found' }; $outdated=@(Get-NpmOutdatedGlobals); if(-not (Invoke-Step { & npm.cmd i -g npm@latest 2>$null })){ throw 'npm self-update failed' }; if((Get-Command codex.cmd -ErrorAction SilentlyContinue) -or ($outdated -contains '@openai/codex')){ if(-not (Invoke-Step { & npm.cmd i -g @openai/codex@latest 2>$null })){ $failed += '@openai/codex' } }; if((Get-Command ctx7.cmd -ErrorAction SilentlyContinue) -or ($outdated -contains 'ctx7')){ if(-not (Invoke-Step { & npm.cmd i -g ctx7@latest 2>$null })){ $failed += 'ctx7' } }; $globals = @($outdated | Where-Object { $_ -and $_ -notin @('npm','@openai/codex','ctx7') }); foreach($p in $globals){ if(-not (Invoke-Step { & npm.cmd i -g "$p@latest" 2>$null })){ $failed += $p } }; $cache = (& npm.cmd config get cache 2>$null | Out-String).Trim(); if($cache){ $npxCache = Join-Path $cache '_npx'; if(Test-Path $npxCache){ Remove-Item -LiteralPath $npxCache -Recurse -Force -ErrorAction SilentlyContinue } }; $codexVersion = (& codex.cmd --version 2>$null | Out-String).Trim(); $npmVersion = (& npm.cmd --version 2>$null | Out-String).Trim(); $npxVersion = (& npx.cmd --version 2>$null | Out-String).Trim(); if($failed.Count -gt 0){ throw ('Failed npm globals: ' + ($failed -join ', ')) }; Write-Host "Done: npm=$npmVersion npx=$npxVersion codex=$codexVersion globals=ok npx-cache=cleared"
+cfun ccsizes
+cdpower
+linespr
+$ErrorActionPreference='Stop'; function Invoke-Step([scriptblock]$Action,[int]$Retries=3,[int]$SleepSeconds=2){ for($i=1;$i -le $Retries;$i++){ try{ & $Action; if($LASTEXITCODE -eq 0 -or $null -eq $LASTEXITCODE){ return $true } } catch{}; if($i -lt $Retries){ Start-Sleep -Seconds $SleepSeconds } }; return $false }; function Get-NpmOutdatedGlobals { $raw = (& npm.cmd outdated -g --depth=0 --json 2>$null | Out-String).Trim(); if([string]::IsNullOrWhiteSpace($raw) -or $raw -eq '{}'){ return @() }; try { $obj = $raw | ConvertFrom-Json } catch { return @() }; if(-not $obj){ return @() }; return @($obj.PSObject.Properties.Name) }; function Get-NpmRegistryVersion([string]$Name){ $raw = (& npm.cmd view --json $Name version 2>$null | Out-String).Trim(); if([string]::IsNullOrWhiteSpace($raw)){ return $null }; try { $obj = $raw | ConvertFrom-Json } catch { return $raw.Trim('"') }; if($obj -is [string]){ return $obj }; return $null }; function Get-BunGlobalPackages { $root = Join-Path $HOME '.bun\install\global\node_modules'; if(-not (Test-Path $root)){ return @() }; $items = New-Object System.Collections.ArrayList; foreach($entry in Get-ChildItem $root -Directory -Force){ if($entry.Name -like '@*'){ foreach($child in Get-ChildItem $entry.FullName -Directory -Force){ $pkg = Join-Path $child.FullName 'package.json'; if(Test-Path $pkg){ try { $j = Get-Content $pkg -Raw | ConvertFrom-Json; if($j.name -and $j.version){ [void]$items.Add([pscustomobject]@{ Name = [string]$j.name; Version = [string]$j.version }) } } catch {} } } } else { $pkg = Join-Path $entry.FullName 'package.json'; if(Test-Path $pkg){ try { $j = Get-Content $pkg -Raw | ConvertFrom-Json; if($j.name -and $j.version){ [void]$items.Add([pscustomobject]@{ Name = [string]$j.name; Version = [string]$j.version }) } } catch {} } } }; return @($items) }; $failed=@(); if(-not (Get-Command npm.cmd -ErrorAction SilentlyContinue)){ throw 'npm.cmd not found' }; $outdated=@(Get-NpmOutdatedGlobals); if(-not (Invoke-Step { & npm.cmd i -g npm@latest 2>$null })){ throw 'npm self-update failed' }; if((Get-Command codex.cmd -ErrorAction SilentlyContinue) -or ($outdated -contains '@openai/codex')){ if(-not (Invoke-Step { & npm.cmd i -g @openai/codex@latest 2>$null })){ $failed += '@openai/codex' } }; if((Get-Command ctx7.cmd -ErrorAction SilentlyContinue) -or ($outdated -contains 'ctx7')){ if(-not (Invoke-Step { & npm.cmd i -g ctx7@latest 2>$null })){ $failed += 'ctx7' } }; $npmGlobals = @($outdated | Where-Object { $_ -and $_ -notin @('npm','@openai/codex','ctx7') }); foreach($p in $npmGlobals){ if(-not (Invoke-Step { & npm.cmd i -g "$p@latest" 2>$null })){ $failed += $p } }; $npmCache = (& npm.cmd config get cache 2>$null | Out-String).Trim(); if($npmCache){ $npxCache = Join-Path $npmCache '_npx'; if(Test-Path $npxCache){ Remove-Item -LiteralPath $npxCache -Recurse -Force -ErrorAction SilentlyContinue } }; $bunVersion=''; if(Get-Command bun.exe -ErrorAction SilentlyContinue){ if(-not (Invoke-Step { & bun.exe upgrade 2>$null })){ $failed += 'bun' }; $bunGlobals = @(Get-BunGlobalPackages); foreach($pkg in $bunGlobals){ $latest = Get-NpmRegistryVersion $pkg.Name; if($latest -and $latest -ne $pkg.Version){ if(-not (Invoke-Step { & bun.exe add -g "$($pkg.Name)@latest" 2>$null })){ $failed += ("bun:" + $pkg.Name) } } }; $bunCache = Join-Path $HOME '.bun\install\cache'; if(Test-Path $bunCache){ Remove-Item -LiteralPath $bunCache -Recurse -Force -ErrorAction SilentlyContinue }; $bunVersion = (& bun.exe --version 2>$null | Out-String).Trim() }; $codexVersion = (& codex.cmd --version 2>$null | Out-String).Trim(); $npmVersion = (& npm.cmd --version 2>$null | Out-String).Trim(); $npxVersion = (& npx.cmd --version 2>$null | Out-String).Trim(); if($failed.Count -gt 0){ throw ('Failed updates: ' + ($failed -join ', ')) }; if($bunVersion){ Write-Host "Done: npm=$npmVersion npx=$npxVersion codex=$codexVersion bun=$bunVersion globals=ok npx-cache=cleared bunx-cache=cleared" } else { Write-Host "Done: npm=$npmVersion npx=$npxVersion codex=$codexVersion globals=ok npx-cache=cleared" }
+dush
+cod
+free 'fixc'
+ps7run
+free
+cd F:\study\projects
+ubu
+. $profile
+F:\study\Devops\backup\backup\profile\profile.ps1
+ps527
+CC
+cfun fixc
+cleanc
+fixvss2; mackback
+macback
+siz
+rmackback; siz
+cc
